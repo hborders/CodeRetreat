@@ -76,11 +76,4 @@
 	STAssertEquals([cell hash], [testObject hash], @"");
 }
 
-- (void) testNeighborCellsReturnsSetWithEightBorderingCells {
-	testObject.x = 10;
-	testObject.y = 20;
-	
-	NSSet *expectedNeighborCells = [NSSet setWithObjects:<#(id)firstObj#>
-}
-
 @end

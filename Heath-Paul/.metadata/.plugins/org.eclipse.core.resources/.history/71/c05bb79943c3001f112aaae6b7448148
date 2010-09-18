@@ -1,0 +1,31 @@
+import java.util.HashSet;
+import java.util.Set;
+
+public class World {
+	private Set<Coordinate> cells = new HashSet<Coordinate>();
+
+	public void addCell(Coordinate cell) {
+		if (!cells.add(cell)) {
+			throw new IllegalArgumentException("Already have cell: " + cell);
+		}
+	}
+
+	public void iterate() {
+		Set<Coordinate> newCells = new HashSet<Coordinate>();
+		for (Coordinate cell : cells) {
+			Set<Coordinate> neighboringCells = cell.getNeighborCoordinates();
+			neighboringCells.retainAll(cells);
+
+			int neighboringCellsSize = neighboringCells.size();
+			if ((neighboringCellsSize == 2) || (neighboringCellsSize == 3)) {
+				newCells.add(cell);
+			}
+		}
+
+		this.cells = newCells;
+	}
+
+	public Set<Coordinate> getCells() {
+		return cells;
+	}
+}

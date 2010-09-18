@@ -1,0 +1,13 @@
+
+public class Cell {
+	public final Coordinate coordinate;
+	private final boolean alive;
+	
+	public Cell(Coordinate coordinate, boolean alive) {
+		super();
+		this.coordinate = coordinate;
+		this.alive = alive;
+	}
+	
+	
+}

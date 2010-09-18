@@ -1,0 +1,17 @@
+import java.util.Set;
+
+
+public class World {
+	
+	public void addCell(Cell cell) {
+		
+	}
+	
+	public void iterate() {
+		
+	}
+	
+	public Set<Cell> getCells() {
+		return null;
+	}
+}

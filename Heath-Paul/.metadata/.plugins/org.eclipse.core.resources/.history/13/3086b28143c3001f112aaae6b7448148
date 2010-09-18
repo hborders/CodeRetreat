@@ -1,0 +1,137 @@
+import java.util.Arrays;
+import java.util.HashSet;
+
+import junit.framework.Assert;
+
+import org.junit.Before;
+import org.junit.Test;
+
+public class WorldTest {
+	private World testObject;
+
+	private Coordinate testCell;
+
+	@Before
+	public void setup() {
+		testObject = new World();
+
+		testCell = new Coordinate(10, 20);
+	}
+
+	@Test
+	public void addCellsAddsCell() {
+		testObject.addCell(testCell);
+
+		Assert.assertEquals(new HashSet<Coordinate>(Arrays.asList(testCell)),
+				testObject.getCells());
+	}
+
+	@Test
+	public void addCellsThrowsIllegalArgumentExceptionWhenCellAlreadyExists() {
+		testObject.addCell(testCell);
+
+		try {
+			testObject.addCell(testCell);
+			Assert.fail();
+		} catch (IllegalArgumentException e) {
+		}
+	}
+
+	@Test
+	public void iterateRemovesCellsWithNoNeighbors() {
+		testObject.addCell(testCell);
+
+		testObject.iterate();
+
+		Assert.assertFalse(testObject.getCells().contains(testCell));
+	}
+
+	@Test
+	public void iterateRemovesCellsWithOneNeighbor() {
+		testObject.addCell(testCell);
+
+		Coordinate neighborCell = new Coordinate(10, 21);
+		testObject.addCell(neighborCell);
+
+		testObject.iterate();
+
+		Assert.assertFalse(testObject.getCells().contains(testCell));
+	}
+
+	@Test
+	public void iterateKeepsCellsWithTwoNeighbors() {
+		testObject.addCell(testCell);
+
+		Coordinate neighborCell1 = new Coordinate(10, 21);
+		testObject.addCell(neighborCell1);
+
+		Coordinate neighborCell2 = new Coordinate(10, 19);
+		testObject.addCell(neighborCell2);
+
+		testObject.iterate();
+
+		Assert.assertTrue(testObject.getCells().contains(testCell));
+	}
+
+	@Test
+	public void iterateKeepsCellsWithThreeNeighbors() {
+		testObject.addCell(testCell);
+
+		Coordinate neighborCell1 = new Coordinate(10, 21);
+		testObject.addCell(neighborCell1);
+
+		Coordinate neighborCell2 = new Coordinate(10, 19);
+		testObject.addCell(neighborCell2);
+
+		Coordinate neighborCell3 = new Coordinate(9, 20);
+		testObject.addCell(neighborCell3);
+
+		testObject.iterate();
+
+		Assert.assertTrue(testObject.getCells().contains(testCell));
+	}
+
+	@Test
+	public void iterateRemovesCellsWithFourNeighbors() {
+		testObject.addCell(testCell);
+
+		testObject.addCell(new Coordinate(10, 21));
+		testObject.addCell(new Coordinate(10, 19));
+		testObject.addCell(new Coordinate(9, 20));
+		testObject.addCell(new Coordinate(11, 20));
+
+		testObject.iterate();
+
+		Assert.assertFalse(testObject.getCells().contains(testCell));
+	}
+
+	@Test
+	public void iterateRemovesCellsWithFiveNeighbors() {
+		testObject.addCell(testCell);
+
+		testObject.addCell(new Coordinate(10, 21));
+		testObject.addCell(new Coordinate(10, 19));
+		testObject.addCell(new Coordinate(9, 20));
+		testObject.addCell(new Coordinate(11, 20));
+		testObject.addCell(new Coordinate(9, 21));
+
+		testObject.iterate();
+
+		Assert.assertFalse(testObject.getCells().contains(testCell));
+	}
+
+	@Test
+	public void iterateRemovesCellsWithSNeighbors() {
+		testObject.addCell(testCell);
+
+		testObject.addCell(new Coordinate(10, 21));
+		testObject.addCell(new Coordinate(10, 19));
+		testObject.addCell(new Coordinate(9, 20));
+		testObject.addCell(new Coordinate(11, 20));
+		testObject.addCell(new Coordinate(9, 21));
+
+		testObject.iterate();
+
+		Assert.assertFalse(testObject.getCells().contains(testCell));
+	}
+}

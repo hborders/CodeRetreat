@@ -1,0 +1,19 @@
+import java.util.HashSet;
+import java.util.Set;
+
+
+public class World {
+	private Set<Cell> cells = new HashSet<Cell>();
+	
+	public void addCell(Cell cell) {
+		
+	}
+	
+	public void iterate() {
+		
+	}
+	
+	public Set<Cell> getCells() {
+		return null;
+	}
+}

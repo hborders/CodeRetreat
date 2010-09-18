@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testrun name="CoordinateTest" project="game-of-life" tests="5" started="5" failures="0" errors="0" ignored="0">
+  <testsuite name="CoordinateTest" time="0.005">
+    <testcase name="equalCellsHaveEqualXsAndYs" classname="CoordinateTest" time="0.003"/>
+    <testcase name="unequalCellsHaveUnequalXs" classname="CoordinateTest" time="0.0"/>
+    <testcase name="unequalCellsHaveUnequalYs" classname="CoordinateTest" time="0.001"/>
+    <testcase name="equalCellsHaveEqualHashCodes" classname="CoordinateTest" time="0.0"/>
+    <testcase name="getNeighborCellsReturnsEightNeighboringCells" classname="CoordinateTest" time="0.001"/>
+  </testsuite>
+</testrun>

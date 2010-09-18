@@ -1,0 +1,17 @@
+import org.junit.Before;
+
+
+public class WorldTest {
+	private World testObject;
+	
+	private Cell testCell;
+	
+	@Before
+	public void setup() {
+	testObject = new World();
+	
+	testCell = new Cell(10, 20);
+	}
+	
+	
+}

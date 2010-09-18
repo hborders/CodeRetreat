@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testrun name="WorldTest" project="game-of-life" tests="8" started="8" failures="0" errors="0" ignored="0">
+  <testsuite name="WorldTest" time="0.0">
+    <testcase name="addCellsAddsCell" classname="WorldTest" time="0.0"/>
+    <testcase name="addCellsThrowsIllegalArgumentExceptionWhenCellAlreadyExists" classname="WorldTest" time="0.0"/>
+    <testcase name="iterateRemovesCellsWithNoNeighbors" classname="WorldTest" time="0.0"/>
+    <testcase name="iterateRemovesCellsWithOneNeighbor" classname="WorldTest" time="0.0"/>
+    <testcase name="iterateKeepsCellsWithTwoNeighbors" classname="WorldTest" time="0.0"/>
+    <testcase name="iterateKeepsCellsWithThreeNeighbors" classname="WorldTest" time="0.0"/>
+    <testcase name="iterateRemovesCellsWithFourNeighbors" classname="WorldTest" time="0.0"/>
+    <testcase name="iterateRemovesCellsWithFiveNeighbors" classname="WorldTest" time="0.0"/>
+  </testsuite>
+</testrun>

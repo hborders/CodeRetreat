@@ -1,0 +1,137 @@
+import java.util.Arrays;
+import java.util.HashSet;
+
+import junit.framework.Assert;
+
+import org.junit.Before;
+import org.junit.Test;
+
+public class WorldTest {
+	private World testObject;
+
+	private Coordinate testCoordinate;
+
+	@Before
+	public void setup() {
+		testObject = new World();
+
+		testCoordinate = new Coordinate(10, 20);
+	}
+
+	@Test
+	public void addCoordinatesAddsCoordinate() {
+		testObject.addCoordinate(testCoordinate);
+
+		Assert.assertEquals(new HashSet<Coordinate>(Arrays.asList(testCoordinate)),
+				testObject.getCoordinates());
+	}
+
+	@Test
+	public void addCoordinatesThrowsIllegalArgumentExceptionWhenCoordinateAlreadyExists() {
+		testObject.addCoordinate(testCoordinate);
+
+		try {
+			testObject.addCoordinate(testCoordinate);
+			Assert.fail();
+		} catch (IllegalArgumentException e) {
+		}
+	}
+
+	@Test
+	public void iterateRemovesCoordinatesWithNoNeighbors() {
+		testObject.addCoordinate(testCoordinate);
+
+		testObject.iterate();
+
+		Assert.assertFalse(testObject.getCoordinates().contains(testCoordinate));
+	}
+
+	@Test
+	public void iterateRemovesCoordinatesWithOneNeighbor() {
+		testObject.addCoordinate(testCoordinate);
+
+		Coordinate neighborCoordinate = new Coordinate(10, 21);
+		testObject.addCoordinate(neighborCoordinate);
+
+		testObject.iterate();
+
+		Assert.assertFalse(testObject.getCoordinates().contains(testCoordinate));
+	}
+
+	@Test
+	public void iterateKeepsCoordinatesWithTwoNeighbors() {
+		testObject.addCoordinate(testCoordinate);
+
+		Coordinate neighborCoordinate1 = new Coordinate(10, 21);
+		testObject.addCoordinate(neighborCoordinate1);
+
+		Coordinate neighborCoordinate2 = new Coordinate(10, 19);
+		testObject.addCoordinate(neighborCoordinate2);
+
+		testObject.iterate();
+
+		Assert.assertTrue(testObject.getCoordinates().contains(testCoordinate));
+	}
+
+	@Test
+	public void iterateKeepsCoordinatesWithThreeNeighbors() {
+		testObject.addCoordinate(testCoordinate);
+
+		Coordinate neighborCoordinate1 = new Coordinate(10, 21);
+		testObject.addCoordinate(neighborCoordinate1);
+
+		Coordinate neighborCoordinate2 = new Coordinate(10, 19);
+		testObject.addCoordinate(neighborCoordinate2);
+
+		Coordinate neighborCoordinate3 = new Coordinate(9, 20);
+		testObject.addCoordinate(neighborCoordinate3);
+
+		testObject.iterate();
+
+		Assert.assertTrue(testObject.getCoordinates().contains(testCoordinate));
+	}
+
+	@Test
+	public void iterateRemovesCoordinatesWithFourNeighbors() {
+		testObject.addCoordinate(testCoordinate);
+
+		testObject.addCoordinate(new Coordinate(10, 21));
+		testObject.addCoordinate(new Coordinate(10, 19));
+		testObject.addCoordinate(new Coordinate(9, 20));
+		testObject.addCoordinate(new Coordinate(11, 20));
+
+		testObject.iterate();
+
+		Assert.assertFalse(testObject.getCoordinates().contains(testCoordinate));
+	}
+
+	@Test
+	public void iterateRemovesCoordinatesWithFiveNeighbors() {
+		testObject.addCoordinate(testCoordinate);
+
+		testObject.addCoordinate(new Coordinate(10, 21));
+		testObject.addCoordinate(new Coordinate(10, 19));
+		testObject.addCoordinate(new Coordinate(9, 20));
+		testObject.addCoordinate(new Coordinate(11, 20));
+		testObject.addCoordinate(new Coordinate(9, 21));
+
+		testObject.iterate();
+
+		Assert.assertFalse(testObject.getCoordinates().contains(testCoordinate));
+	}
+	
+	@Test
+	public void iterateRemovesCoordinatesWithSNeighbors() {
+		testObject.addCoordinate(testCoordinate);
+
+		testObject.addCoordinate(new Coordinate(10, 21));
+		testObject.addCoordinate(new Coordinate(10, 19));
+		testObject.addCoordinate(new Coordinate(9, 20));
+		testObject.addCoordinate(new Coordinate(11, 20));
+		testObject.addCoordinate(new Coordinate(9, 21));
+
+		testObject.iterate();
+
+		Assert.assertFalse(testObject.getCoordinates().contains(testCoordinate));
+	}
+}

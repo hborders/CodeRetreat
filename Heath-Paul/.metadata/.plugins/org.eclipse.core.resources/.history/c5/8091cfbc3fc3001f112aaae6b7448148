@@ -1,0 +1,20 @@
+import java.util.HashSet;
+import java.util.Set;
+
+public class World {
+	private Set<Cell> cells = new HashSet<Cell>();
+
+	public void addCell(Cell cell) {
+		if (!cells.add(cell)) {
+			throw new IllegalArgumentException("Already have cell: " + cell)
+		}
+	}
+
+	public void iterate() {
+		cells = new HashSet<Cell>();
+	}
+
+	public Set<Cell> getCells() {
+		return cells;
+	}
+}
