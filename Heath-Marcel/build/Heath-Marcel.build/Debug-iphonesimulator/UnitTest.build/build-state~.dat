@@ -1,0 +1,849 @@
+TUnitTest
+v7
+r0
+t306513839.695064
+cCheck dependencies
+cProcessInfoPlistFile /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator/UnitTest.app/Info.plist UnitTest-Info.plist
+cCompileXIB /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/MainWindow.xib
+cProcessPCH /var/folders/Az/Az+0r2ubHtm3wMGMatRuQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIKit-dsviovxsiqksudgtccjhhbmhccig/UIKit.h.gch /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h normal i386 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/Az/Az+0r2ubHtm3wMGMatRuQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIKit-bsaxhxjefgdywxdrvrlriikbpzbj/UIKit.h.pth /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+cCompileC build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/Objects-normal/i386/GTMIPhoneUnitTestDelegate.o /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMIPhoneUnitTestDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/Objects-normal/i386/GTMIPhoneUnitTestMain.o /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMIPhoneUnitTestMain.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/Objects-normal/i386/GTMObjC2Runtime.o /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/Foundation/GTMObjC2Runtime.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/Objects-normal/i386/GTMRegex.o /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/Foundation/GTMRegex.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/Objects-normal/i386/GTMSenTestCase.o /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMSenTestCase.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/Objects-normal/i386/GTMUnitTestDevLog.o /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMUnitTestDevLog.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/Objects-normal/i386/TestTest.o /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/Tests/TestTest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cAnalyze /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMIPhoneUnitTestDelegate.m
+cAnalyze /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMIPhoneUnitTestMain.m
+cAnalyze /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/Foundation/GTMObjC2Runtime.m
+cAnalyze /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/Foundation/GTMRegex.m
+cAnalyze /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMSenTestCase.m
+cAnalyze /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMUnitTestDevLog.m
+cAnalyze /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/Tests/TestTest.m
+cPhaseScriptExecution "Run Script" /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/Script-7B2D5D4C124504A900EAB733.sh
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreServices.framework/Headers/CoreServices.h
+c000000004486036800000000000003A8
+t1149633384
+s936
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/Availability.h
+c000000004C57A0390000000000001A5C
+t1280811065
+s6748
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/AvailabilityMacros.h
+c000000004C57A0390000000000006724
+t1280811065
+s26404
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/TargetConditionals.h
+c000000004C57A03900000000000031E9
+t1280811065
+s12777
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libkern/OSAtomic.h
+c000000004C5790920000000000002519
+t1280807058
+s9497
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/objc/Object.h
+c000000004C5A494F0000000000000E8B
+t1280985423
+s3723
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/objc/Protocol.h
+c000000004C5A494F00000000000007E8
+t1280985423
+s2024
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/objc/message.h
+c000000004C5A494F0000000000001B5D
+t1280985423
+s7005
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/objc/objc-api.h
+c000000004C5A494F0000000000000955
+t1280985423
+s2389
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/objc/objc-auto.h
+c000000004C5A494F000000000000277F
+t1280985423
+s10111
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/objc/objc-runtime.h
+c000000004C5A494F0000000000000032
+t1280985423
+s50
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/objc/runtime.h
+c000000004C5A494F00000000000053F9
+t1280985423
+s21497
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/regex.h
+c000000004C579092000000000000154F
+t1280807058
+s5455
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/stdio.h
+c000000004C57909200000000000040AC
+t1280807058
+s16556
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/stdlib.h
+c000000004C5790920000000000002DF5
+t1280807058
+s11765
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/string.h
+c000000004C5790920000000000001731
+t1280807058
+s5937
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/unistd.h
+c000000004C579092000000000000563E
+t1280807058
+s22078
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stdarg.h
+c000000004A11983400000000000010DD
+t1242667060
+s4317
+
+N/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/Foundation/GTMGarbageCollection.h
+c0000000049A8678C0000000000000AFF
+t1235773324
+s2815
+i<Foundation/Foundation.h>
+i"GTMDefines.h"
+
+N/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/Foundation/GTMObjC2Runtime.h
+c000000004BC46BB40000000000001361
+t1271163828
+s4961
+i<objc/objc-api.h>
+i<objc/objc-auto.h>
+i"GTMDefines.h"
+i<objc/runtime.h>
+i<objc/objc-runtime.h>
+i<objc/Object.h>
+i<libkern/OSAtomic.h>
+i"objc/Protocol.h"
+
+N/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/Foundation/GTMObjC2Runtime.m
+c000000004AB11A9B0000000000001289
+t1253120667
+s4745
+i"GTMObjC2Runtime.h"
+i<stdlib.h>
+i<string.h>
+
+N/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/Foundation/GTMRegex.h
+c000000004967B4D60000000000003998
+t1231533270
+s14744
+i<Foundation/Foundation.h>
+i<regex.h>
+i"GTMDefines.h"
+
+N/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/Foundation/GTMRegex.m
+c000000004C06968300000000000067D1
+t1275500163
+s26577
+i"GTMRegex.h"
+i"GTMDefines.h"
+
+N/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/GTMDefines.h
+c000000004C8011DE00000000000032B7
+t1283461598
+s12983
+i<AvailabilityMacros.h>
+i<TargetConditionals.h>
+i<Availability.h>
+
+N/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMIPhoneUnitTestDelegate.h
+c000000004C2CD0D900000000000005D5
+t1278005465
+s1493
+i<Foundation/Foundation.h>
+
+N/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMIPhoneUnitTestDelegate.m
+c000000004C2CD0D9000000000000215A
+t1278005465
+s8538
+i"GTMIPhoneUnitTestDelegate.h"
+i"GTMDefines.h"
+i<objc/runtime.h>
+i<stdio.h>
+i<UIKit/UIKit.h>
+i"GTMSenTestCase.h"
+
+N/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMIPhoneUnitTestMain.m
+c000000004852C8CE000000000000046A
+t1213384910
+s1130
+i"GTMDefines.h"
+i<UIKit/UIKit.h>
+
+N/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMSenTestCase.h
+c000000004C4623A6000000000000C7FB
+t1279665062
+s51195
+i"GTMDefines.h"
+i<SenTestingKit/SenTestingKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMSenTestCase.m
+c000000004C618CF70000000000003D15
+t1281461495
+s15637
+i"GTMSenTestCase.h"
+i<unistd.h>
+i<objc/message.h>
+i"GTMObjC2Runtime.h"
+i"GTMUnitTestDevLog.h"
+i"GTMGarbageCollection.h"
+i<stdarg.h>
+
+N/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMUnitTestDevLog.h
+c000000004C0696830000000000000D16
+t1275500163
+s3350
+i"GTMDefines.h"
+i<Foundation/Foundation.h>
+
+N/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMUnitTestDevLog.m
+c000000004C0696830000000000002451
+t1275500163
+s9297
+i"GTMUnitTestDevLog.h"
+i"GTMRegex.h"
+i"GTMSenTestCase.h"
+i<CoreServices/CoreServices.h>
+
+N/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/RunIPhoneUnitTest.sh
+c000000004C86C53F0000000000001686
+t1283900735
+s5766
+
+N/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/MainWindow.xib
+c000000004C94CA110000000000004E65
+t1284819473
+s20069
+
+N/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/Tests/TestTest.h
+c000000004C94CF2300000000000000D2
+t1284820771
+s210
+i<Cocoa/Cocoa.h>
+
+N/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/Tests/TestTest.m
+c000000004C94CFD700000000000000A2
+t1284820951
+s162
+i"GTMSenTestCase.h"
+
+N/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator/UnitTest.app
+t2
+s0
+
+N/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator/UnitTest.app.dSYM
+t2
+s0
+
+N/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator/UnitTest.app/Info.plist
+t1284821037
+s469
+
+N/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator/UnitTest.app/MainWindow.nib
+t1284821037
+s1691
+
+N/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator/UnitTest.app/PkgInfo
+t1284821037
+s8
+
+N/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator/UnitTest.app/RunIPhoneUnitTest.sh
+t2
+s0
+
+N/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator/UnitTest.app/UnitTest
+t2
+s0
+
+N/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/Objects-normal/i386/GTMIPhoneUnitTestDelegate.o
+t1284821038
+s28404
+
+N/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/Objects-normal/i386/GTMIPhoneUnitTestMain.o
+t1284821038
+s6580
+
+N/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/Objects-normal/i386/GTMObjC2Runtime.o
+t1284821038
+s3976
+
+N/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/Objects-normal/i386/GTMRegex.o
+t1284821039
+s56380
+
+N/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/Objects-normal/i386/GTMSenTestCase.o
+t1284821039
+s42356
+
+N/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/Objects-normal/i386/GTMUnitTestDevLog.o
+t1284821039
+s27272
+
+N/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/Objects-normal/i386/TestTest.o
+t2
+s0
+
+N/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/Objects-normal/i386/UnitTest.LinkFileList
+c000000004C94D02D0000000000000416
+t1284821037
+s1046
+
+N/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/Script-7B2D5D4C124504A900EAB733.sh
+c000000004C94D02D000000000000003E
+t1284821037
+s62
+
+N/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/StaticAnalyzer/normal/i386/GTMIPhoneUnitTestDelegate.plist
+t2
+s0
+
+N/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/StaticAnalyzer/normal/i386/GTMIPhoneUnitTestMain.plist
+t2
+s0
+
+N/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/StaticAnalyzer/normal/i386/GTMObjC2Runtime.plist
+t2
+s0
+
+N/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/StaticAnalyzer/normal/i386/GTMRegex.plist
+t2
+s0
+
+N/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/StaticAnalyzer/normal/i386/GTMSenTestCase.plist
+t2
+s0
+
+N/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/StaticAnalyzer/normal/i386/GTMUnitTestDevLog.plist
+t2
+s0
+
+N/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/StaticAnalyzer/normal/i386/TestTest.plist
+t2
+s0
+
+N/var/folders/Az/Az+0r2ubHtm3wMGMatRuQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIKit-bsaxhxjefgdywxdrvrlriikbpzbj/UIKit.h.pth
+t2
+s0
+
+N/var/folders/Az/Az+0r2ubHtm3wMGMatRuQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIKit-dsviovxsiqksudgtccjhhbmhccig/UIKit.h.gch
+t1284821038
+s15240176
+
+NUnitTest-Info.plist
+c000000004C94CEDF000000000000027A
+t1284820703
+s634
+
+CAnalyze /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/Foundation/GTMObjC2Runtime.m
+s306513839.317823
+e306513839.348400
+r1
+xAnalyze
+x/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/Foundation/GTMObjC2Runtime.m
+oIn file included from <built-in>:121:
+o<command line>:1:10: fatal error: '/var/folders/Az/Az+0r2ubHtm3wMGMatRuQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIKit-bsaxhxjefgdywxdrvrlriikbpzbj/UIKit.h' file not found
+o #include "/var/folders/Az/Az+0r2ubHtm3wMGMatRuQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIKit-bsaxhxjefgdywxdrvrlriikbpzbj/UIKit.h"
+o          ^
+o1 error generated.
+lSLF07#2@89"Analyze /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/Foundation/GTMObjC2Runtime.m306513839#306513839#0(414"In file included from <built-in>:121:<command line>:1:10: fatal error: '/var/folders/Az/Az+0r2ubHtm3wMGMatRuQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIKit-bsaxhxjefgdywxdrvrlriikbpzbj/UIKit.h' file not found #include "/var/folders/Az/Az+0r2ubHtm3wMGMatRuQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIKit-bsaxhxjefgdywxdrvrlriikbpzbj/UIKit.h"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors306513839#18446744073709551615#0#1(25@157"'/var/folders/Az/Az+0r2ubHtm3wMGMatRuQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIKit-bsaxhxjefgdywxdrvrlriikbpzbj/UIKit.h' file not found306513839#18446744073709551615#0#0(6@14"<command line>306513839#1#0#1#0#0"0(6@14"<command line>306513839#0#0#0#0#0"0(0#0#81"/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/Foundation/GTMObjC2Runtime.m8630323136#2042"    cd /Users/hborders/Desktop/CodeRetreat/Heath-Marcel    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-generated-files.hmap -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-own-target-headers.hmap -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-all-target-headers.hmap -iquote /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-project-headers.hmap -F/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator/include -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/DerivedSources/i386 -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/DerivedSources -include /var/folders/Az/Az+0r2ubHtm3wMGMatRuQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIKit-bsaxhxjefgdywxdrvrlriikbpzbj/UIKit.h --analyze /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/Foundation/GTMObjC2Runtime.m -o /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/StaticAnalyzer/normal/i386/GTMObjC2Runtime.plist0#
+
+CAnalyze /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/Foundation/GTMRegex.m
+s306513839.348496
+e306513839.501453
+r1
+xAnalyze
+x/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/Foundation/GTMRegex.m
+oIn file included from <built-in>:121:
+o<command line>:1:10: fatal error: '/var/folders/Az/Az+0r2ubHtm3wMGMatRuQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIKit-bsaxhxjefgdywxdrvrlriikbpzbj/UIKit.h' file not found
+o #include "/var/folders/Az/Az+0r2ubHtm3wMGMatRuQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIKit-bsaxhxjefgdywxdrvrlriikbpzbj/UIKit.h"
+o          ^
+o1 error generated.
+lSLF07#2@82"Analyze /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/Foundation/GTMRegex.m306513839#306513839#0(414"In file included from <built-in>:121:<command line>:1:10: fatal error: '/var/folders/Az/Az+0r2ubHtm3wMGMatRuQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIKit-bsaxhxjefgdywxdrvrlriikbpzbj/UIKit.h' file not found #include "/var/folders/Az/Az+0r2ubHtm3wMGMatRuQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIKit-bsaxhxjefgdywxdrvrlriikbpzbj/UIKit.h"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors306513839#18446744073709551615#0#1(25@157"'/var/folders/Az/Az+0r2ubHtm3wMGMatRuQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIKit-bsaxhxjefgdywxdrvrlriikbpzbj/UIKit.h' file not found306513839#18446744073709551615#0#0(6@14"<command line>306513839#1#0#1#0#0"0(6@14"<command line>306513839#0#0#0#0#0"0(0#0#74"/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/Foundation/GTMRegex.m8629556640#2028"    cd /Users/hborders/Desktop/CodeRetreat/Heath-Marcel    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-generated-files.hmap -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-own-target-headers.hmap -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-all-target-headers.hmap -iquote /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-project-headers.hmap -F/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator/include -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/DerivedSources/i386 -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/DerivedSources -include /var/folders/Az/Az+0r2ubHtm3wMGMatRuQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIKit-bsaxhxjefgdywxdrvrlriikbpzbj/UIKit.h --analyze /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/Foundation/GTMRegex.m -o /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/StaticAnalyzer/normal/i386/GTMRegex.plist0#
+
+CAnalyze /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMIPhoneUnitTestDelegate.m
+s306513839.155537
+e306513839.317729
+r1
+xAnalyze
+x/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMIPhoneUnitTestDelegate.m
+oIn file included from <built-in>:121:
+o<command line>:1:10: fatal error: '/var/folders/Az/Az+0r2ubHtm3wMGMatRuQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIKit-bsaxhxjefgdywxdrvrlriikbpzbj/UIKit.h' file not found
+o #include "/var/folders/Az/Az+0r2ubHtm3wMGMatRuQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIKit-bsaxhxjefgdywxdrvrlriikbpzbj/UIKit.h"
+o          ^
+o1 error generated.
+lSLF07#2@100"Analyze /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMIPhoneUnitTestDelegate.m306513839#306513839#0(414"In file included from <built-in>:121:<command line>:1:10: fatal error: '/var/folders/Az/Az+0r2ubHtm3wMGMatRuQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIKit-bsaxhxjefgdywxdrvrlriikbpzbj/UIKit.h' file not found #include "/var/folders/Az/Az+0r2ubHtm3wMGMatRuQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIKit-bsaxhxjefgdywxdrvrlriikbpzbj/UIKit.h"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors306513839#18446744073709551615#0#1(25@157"'/var/folders/Az/Az+0r2ubHtm3wMGMatRuQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIKit-bsaxhxjefgdywxdrvrlriikbpzbj/UIKit.h' file not found306513839#18446744073709551615#0#0(6@14"<command line>306513839#1#0#1#0#0"0(6@14"<command line>306513839#0#0#0#0#0"0(0#0#92"/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMIPhoneUnitTestDelegate.m8616506784#2063"    cd /Users/hborders/Desktop/CodeRetreat/Heath-Marcel    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-generated-files.hmap -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-own-target-headers.hmap -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-all-target-headers.hmap -iquote /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-project-headers.hmap -F/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator/include -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/DerivedSources/i386 -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/DerivedSources -include /var/folders/Az/Az+0r2ubHtm3wMGMatRuQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIKit-bsaxhxjefgdywxdrvrlriikbpzbj/UIKit.h --analyze /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMIPhoneUnitTestDelegate.m -o /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/StaticAnalyzer/normal/i386/GTMIPhoneUnitTestDelegate.plist0#
+
+CAnalyze /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMIPhoneUnitTestMain.m
+s306513839.236025
+e306513839.381613
+r1
+xAnalyze
+x/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMIPhoneUnitTestMain.m
+oIn file included from <built-in>:121:
+o<command line>:1:10: fatal error: '/var/folders/Az/Az+0r2ubHtm3wMGMatRuQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIKit-bsaxhxjefgdywxdrvrlriikbpzbj/UIKit.h' file not found
+o #include "/var/folders/Az/Az+0r2ubHtm3wMGMatRuQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIKit-bsaxhxjefgdywxdrvrlriikbpzbj/UIKit.h"
+o          ^
+o1 error generated.
+lSLF07#2@96"Analyze /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMIPhoneUnitTestMain.m306513839#306513839#0(414"In file included from <built-in>:121:<command line>:1:10: fatal error: '/var/folders/Az/Az+0r2ubHtm3wMGMatRuQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIKit-bsaxhxjefgdywxdrvrlriikbpzbj/UIKit.h' file not found #include "/var/folders/Az/Az+0r2ubHtm3wMGMatRuQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIKit-bsaxhxjefgdywxdrvrlriikbpzbj/UIKit.h"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors306513839#18446744073709551615#0#1(25@157"'/var/folders/Az/Az+0r2ubHtm3wMGMatRuQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIKit-bsaxhxjefgdywxdrvrlriikbpzbj/UIKit.h' file not found306513839#18446744073709551615#0#0(6@14"<command line>306513839#1#0#1#0#0"0(6@14"<command line>306513839#0#0#0#0#0"0(0#0#88"/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMIPhoneUnitTestMain.m8640396352#2055"    cd /Users/hborders/Desktop/CodeRetreat/Heath-Marcel    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-generated-files.hmap -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-own-target-headers.hmap -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-all-target-headers.hmap -iquote /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-project-headers.hmap -F/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator/include -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/DerivedSources/i386 -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/DerivedSources -include /var/folders/Az/Az+0r2ubHtm3wMGMatRuQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIKit-bsaxhxjefgdywxdrvrlriikbpzbj/UIKit.h --analyze /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMIPhoneUnitTestMain.m -o /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/StaticAnalyzer/normal/i386/GTMIPhoneUnitTestMain.plist0#
+
+CAnalyze /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMSenTestCase.m
+s306513839.381783
+e306513839.534619
+r1
+xAnalyze
+x/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMSenTestCase.m
+oIn file included from <built-in>:121:
+o<command line>:1:10: fatal error: '/var/folders/Az/Az+0r2ubHtm3wMGMatRuQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIKit-bsaxhxjefgdywxdrvrlriikbpzbj/UIKit.h' file not found
+o #include "/var/folders/Az/Az+0r2ubHtm3wMGMatRuQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIKit-bsaxhxjefgdywxdrvrlriikbpzbj/UIKit.h"
+o          ^
+o1 error generated.
+lSLF07#2@89"Analyze /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMSenTestCase.m306513839#306513839#0(414"In file included from <built-in>:121:<command line>:1:10: fatal error: '/var/folders/Az/Az+0r2ubHtm3wMGMatRuQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIKit-bsaxhxjefgdywxdrvrlriikbpzbj/UIKit.h' file not found #include "/var/folders/Az/Az+0r2ubHtm3wMGMatRuQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIKit-bsaxhxjefgdywxdrvrlriikbpzbj/UIKit.h"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors306513839#18446744073709551615#0#1(25@157"'/var/folders/Az/Az+0r2ubHtm3wMGMatRuQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIKit-bsaxhxjefgdywxdrvrlriikbpzbj/UIKit.h' file not found306513839#18446744073709551615#0#0(6@14"<command line>306513839#1#0#1#0#0"0(6@14"<command line>306513839#0#0#0#0#0"0(0#0#81"/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMSenTestCase.m8618110400#2041"    cd /Users/hborders/Desktop/CodeRetreat/Heath-Marcel    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-generated-files.hmap -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-own-target-headers.hmap -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-all-target-headers.hmap -iquote /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-project-headers.hmap -F/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator/include -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/DerivedSources/i386 -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/DerivedSources -include /var/folders/Az/Az+0r2ubHtm3wMGMatRuQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIKit-bsaxhxjefgdywxdrvrlriikbpzbj/UIKit.h --analyze /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMSenTestCase.m -o /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/StaticAnalyzer/normal/i386/GTMSenTestCase.plist0#
+
+CAnalyze /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMUnitTestDevLog.m
+s306513839.501550
+e306513839.604283
+r1
+xAnalyze
+x/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMUnitTestDevLog.m
+oIn file included from <built-in>:121:
+o<command line>:1:10: fatal error: '/var/folders/Az/Az+0r2ubHtm3wMGMatRuQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIKit-bsaxhxjefgdywxdrvrlriikbpzbj/UIKit.h' file not found
+o #include "/var/folders/Az/Az+0r2ubHtm3wMGMatRuQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIKit-bsaxhxjefgdywxdrvrlriikbpzbj/UIKit.h"
+o          ^
+o1 error generated.
+lSLF07#2@92"Analyze /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMUnitTestDevLog.m306513839#306513839#0(414"In file included from <built-in>:121:<command line>:1:10: fatal error: '/var/folders/Az/Az+0r2ubHtm3wMGMatRuQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIKit-bsaxhxjefgdywxdrvrlriikbpzbj/UIKit.h' file not found #include "/var/folders/Az/Az+0r2ubHtm3wMGMatRuQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIKit-bsaxhxjefgdywxdrvrlriikbpzbj/UIKit.h"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors306513839#18446744073709551615#0#1(25@157"'/var/folders/Az/Az+0r2ubHtm3wMGMatRuQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIKit-bsaxhxjefgdywxdrvrlriikbpzbj/UIKit.h' file not found306513839#18446744073709551615#0#0(6@14"<command line>306513839#1#0#1#0#0"0(6@14"<command line>306513839#0#0#0#0#0"0(0#0#84"/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMUnitTestDevLog.m8637393248#2047"    cd /Users/hborders/Desktop/CodeRetreat/Heath-Marcel    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-generated-files.hmap -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-own-target-headers.hmap -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-all-target-headers.hmap -iquote /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-project-headers.hmap -F/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator/include -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/DerivedSources/i386 -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/DerivedSources -include /var/folders/Az/Az+0r2ubHtm3wMGMatRuQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIKit-bsaxhxjefgdywxdrvrlriikbpzbj/UIKit.h --analyze /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMUnitTestDevLog.m -o /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/StaticAnalyzer/normal/i386/GTMUnitTestDevLog.plist0#
+
+CAnalyze /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/Tests/TestTest.m
+s306513839.534715
+e306513839.632778
+r1
+xAnalyze
+x/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/Tests/TestTest.m
+oIn file included from <built-in>:121:
+o<command line>:1:10: fatal error: '/var/folders/Az/Az+0r2ubHtm3wMGMatRuQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIKit-bsaxhxjefgdywxdrvrlriikbpzbj/UIKit.h' file not found
+o #include "/var/folders/Az/Az+0r2ubHtm3wMGMatRuQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIKit-bsaxhxjefgdywxdrvrlriikbpzbj/UIKit.h"
+o          ^
+o1 error generated.
+lSLF07#2@73"Analyze /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/Tests/TestTest.m306513839#306513839#0(414"In file included from <built-in>:121:<command line>:1:10: fatal error: '/var/folders/Az/Az+0r2ubHtm3wMGMatRuQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIKit-bsaxhxjefgdywxdrvrlriikbpzbj/UIKit.h' file not found #include "/var/folders/Az/Az+0r2ubHtm3wMGMatRuQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIKit-bsaxhxjefgdywxdrvrlriikbpzbj/UIKit.h"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors306513839#18446744073709551615#0#1(25@157"'/var/folders/Az/Az+0r2ubHtm3wMGMatRuQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIKit-bsaxhxjefgdywxdrvrlriikbpzbj/UIKit.h' file not found306513839#18446744073709551615#0#0(6@14"<command line>306513839#1#0#1#0#0"0(6@14"<command line>306513839#0#0#0#0#0"0(0#0#65"/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/Tests/TestTest.m8630258848#2019"    cd /Users/hborders/Desktop/CodeRetreat/Heath-Marcel    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-generated-files.hmap -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-own-target-headers.hmap -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-all-target-headers.hmap -iquote /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-project-headers.hmap -F/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator/include -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/DerivedSources/i386 -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/DerivedSources -include /var/folders/Az/Az+0r2ubHtm3wMGMatRuQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIKit-bsaxhxjefgdywxdrvrlriikbpzbj/UIKit.h --analyze /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/Tests/TestTest.m -o /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/StaticAnalyzer/normal/i386/TestTest.plist0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies306513837#306513837#0(0"0(0#1#0"8630034720#0"0#
+
+CCompileC build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/Objects-normal/i386/GTMIPhoneUnitTestDelegate.o /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMIPhoneUnitTestDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306513838.761737
+e306513838.877729
+r1
+xCompileC
+xbuild/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/Objects-normal/i386/GTMIPhoneUnitTestDelegate.o
+x/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMIPhoneUnitTestDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMIPhoneUnitTestDelegate.m306513838#306513838#0(0"0(0#0#92"/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMIPhoneUnitTestDelegate.m8612767680#2108"    cd /Users/hborders/Desktop/CodeRetreat/Heath-Marcel    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-generated-files.hmap -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-own-target-headers.hmap -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-all-target-headers.hmap -iquote /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-project-headers.hmap -F/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator/include -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/DerivedSources/i386 -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/DerivedSources -include /var/folders/Az/Az+0r2ubHtm3wMGMatRuQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIKit-dsviovxsiqksudgtccjhhbmhccig/UIKit.h -c /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMIPhoneUnitTestDelegate.m -o /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/Objects-normal/i386/GTMIPhoneUnitTestDelegate.o0#
+
+CCompileC build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/Objects-normal/i386/GTMIPhoneUnitTestMain.o /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMIPhoneUnitTestMain.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306513838.763769
+e306513838.832241
+r1
+xCompileC
+xbuild/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/Objects-normal/i386/GTMIPhoneUnitTestMain.o
+x/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMIPhoneUnitTestMain.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMIPhoneUnitTestMain.m306513838#306513838#0(0"0(0#0#88"/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMIPhoneUnitTestMain.m8611830880#2100"    cd /Users/hborders/Desktop/CodeRetreat/Heath-Marcel    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-generated-files.hmap -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-own-target-headers.hmap -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-all-target-headers.hmap -iquote /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-project-headers.hmap -F/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator/include -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/DerivedSources/i386 -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/DerivedSources -include /var/folders/Az/Az+0r2ubHtm3wMGMatRuQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIKit-dsviovxsiqksudgtccjhhbmhccig/UIKit.h -c /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMIPhoneUnitTestMain.m -o /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/Objects-normal/i386/GTMIPhoneUnitTestMain.o0#
+
+CCompileC build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/Objects-normal/i386/GTMObjC2Runtime.o /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/Foundation/GTMObjC2Runtime.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306513838.832348
+e306513838.935030
+r1
+xCompileC
+xbuild/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/Objects-normal/i386/GTMObjC2Runtime.o
+x/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/Foundation/GTMObjC2Runtime.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/Foundation/GTMObjC2Runtime.m306513838#306513838#0(0"0(0#0#81"/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/Foundation/GTMObjC2Runtime.m8629475168#2087"    cd /Users/hborders/Desktop/CodeRetreat/Heath-Marcel    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-generated-files.hmap -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-own-target-headers.hmap -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-all-target-headers.hmap -iquote /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-project-headers.hmap -F/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator/include -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/DerivedSources/i386 -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/DerivedSources -include /var/folders/Az/Az+0r2ubHtm3wMGMatRuQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIKit-dsviovxsiqksudgtccjhhbmhccig/UIKit.h -c /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/Foundation/GTMObjC2Runtime.m -o /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/Objects-normal/i386/GTMObjC2Runtime.o0#
+
+CCompileC build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/Objects-normal/i386/GTMRegex.o /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/Foundation/GTMRegex.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306513838.878055
+e306513839.086512
+r1
+xCompileC
+xbuild/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/Objects-normal/i386/GTMRegex.o
+x/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/Foundation/GTMRegex.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/Foundation/GTMRegex.m306513838#306513839#0(0"0(0#0#74"/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/Foundation/GTMRegex.m8621632448#2073"    cd /Users/hborders/Desktop/CodeRetreat/Heath-Marcel    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-generated-files.hmap -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-own-target-headers.hmap -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-all-target-headers.hmap -iquote /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-project-headers.hmap -F/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator/include -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/DerivedSources/i386 -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/DerivedSources -include /var/folders/Az/Az+0r2ubHtm3wMGMatRuQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIKit-dsviovxsiqksudgtccjhhbmhccig/UIKit.h -c /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/Foundation/GTMRegex.m -o /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/Objects-normal/i386/GTMRegex.o0#
+
+CCompileC build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/Objects-normal/i386/GTMSenTestCase.o /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMSenTestCase.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306513838.935136
+e306513839.098186
+r1
+xCompileC
+xbuild/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/Objects-normal/i386/GTMSenTestCase.o
+x/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMSenTestCase.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMSenTestCase.m306513838#306513839#0(0"0(0#0#81"/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMSenTestCase.m8640724064#2086"    cd /Users/hborders/Desktop/CodeRetreat/Heath-Marcel    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-generated-files.hmap -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-own-target-headers.hmap -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-all-target-headers.hmap -iquote /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-project-headers.hmap -F/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator/include -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/DerivedSources/i386 -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/DerivedSources -include /var/folders/Az/Az+0r2ubHtm3wMGMatRuQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIKit-dsviovxsiqksudgtccjhhbmhccig/UIKit.h -c /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMSenTestCase.m -o /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/Objects-normal/i386/GTMSenTestCase.o0#
+
+CCompileC build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/Objects-normal/i386/GTMUnitTestDevLog.o /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMUnitTestDevLog.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306513839.086611
+e306513839.235922
+r1
+xCompileC
+xbuild/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/Objects-normal/i386/GTMUnitTestDevLog.o
+x/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMUnitTestDevLog.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMUnitTestDevLog.m: In function '-[GTMUnttestDevLogAssertionHandler handleFailureInMethod:object:file:lineNumber:description:]':
+o/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMUnitTestDevLog.m:71: warning: unused variable 'outLog'
+o/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMUnitTestDevLog.m: In function '-[GTMUnttestDevLogAssertionHandler handleFailureInFunction:file:lineNumber:description:]':
+o/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMUnitTestDevLog.m:93: warning: unused variable 'outLog'
+lSLF07#2@92"Compile /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMUnitTestDevLog.m306513839#306513839#0(631"/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMUnitTestDevLog.m: In function '-[GTMUnttestDevLogAssertionHandler handleFailureInMethod:object:file:lineNumber:description:]':/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMUnitTestDevLog.m:71: warning: unused variable 'outLog'/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMUnitTestDevLog.m: In function '-[GTMUnttestDevLogAssertionHandler handleFailureInFunction:file:lineNumber:description:]':/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMUnitTestDevLog.m:93: warning: unused variable 'outLog'2(22@24"Unused variable 'outLog'306513839#195#123#0(6@84"/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMUnitTestDevLog.m297192963#71#0#71#0#19"unused variable '*'0(22@24"Unused variable 'outLog'306513839#508#123#0(6@84"/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMUnitTestDevLog.m297192963#93#0#93#0#19"unused variable '*'0(0#0#84"/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMUnitTestDevLog.m8630114592#2092"    cd /Users/hborders/Desktop/CodeRetreat/Heath-Marcel    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-generated-files.hmap -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-own-target-headers.hmap -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-all-target-headers.hmap -iquote /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-project-headers.hmap -F/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator/include -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/DerivedSources/i386 -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/DerivedSources -include /var/folders/Az/Az+0r2ubHtm3wMGMatRuQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIKit-dsviovxsiqksudgtccjhhbmhccig/UIKit.h -c /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/GTMUnitTestDevLog.m -o /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/Objects-normal/i386/GTMUnitTestDevLog.o0#
+
+CCompileC build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/Objects-normal/i386/TestTest.o /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/Tests/TestTest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306513839.098292
+e306513839.155436
+r0
+xCompileC
+xbuild/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/Objects-normal/i386/TestTest.o
+x/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/Tests/TestTest.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/Tests/TestTest.m:3: error: cannot find interface declaration for 'GTMSenTestCase', superclass of 'TestTest'
+lSLF07#2@73"Compile /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/Tests/TestTest.m306513839#306513839#0(157"/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/Tests/TestTest.m:3: error: cannot find interface declaration for 'GTMSenTestCase', superclass of 'TestTest'1(4@80"Cannot find interface declaration for 'GTMSenTestCase', superclass of 'TestTest'306513839#0#157#0(6@65"/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/Tests/TestTest.m306513751#3#0#3#0#60"cannot find interface declaration for '*', superclass of '*'0(0#0#65"/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/Tests/TestTest.m8629140064#2064"    cd /Users/hborders/Desktop/CodeRetreat/Heath-Marcel    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-generated-files.hmap -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-own-target-headers.hmap -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-all-target-headers.hmap -iquote /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-project-headers.hmap -F/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator/include -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/DerivedSources/i386 -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/DerivedSources -include /var/folders/Az/Az+0r2ubHtm3wMGMatRuQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIKit-dsviovxsiqksudgtccjhhbmhccig/UIKit.h -c /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/Tests/TestTest.m -o /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/Objects-normal/i386/TestTest.o1#
+
+CCompileXIB /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/MainWindow.xib
+s306513837.348510
+e306513837.724435
+r1
+xCompileXIB
+x/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib306513837#306513837#0(0"0(0#0#63"/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/MainWindow.xib8610582464#601"    cd /Users/hborders/Desktop/CodeRetreat/Heath-Marcel    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator/UnitTest.app/MainWindow.nib /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCpResource build/Debug-iphonesimulator/UnitTest.app/RunIPhoneUnitTest.sh GTM/UnitTesting/RunIPhoneUnitTest.sh
+r0
+
+CGenerateDSYMFile /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator/UnitTest.app.dSYM /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator/UnitTest.app/UnitTest
+s306513354.020412
+e306513354.046820
+r1
+xGenerateDSYMFile
+x/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator/UnitTest.app.dSYM
+x/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator/UnitTest.app/UnitTest
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/UnitTest.app.dSYM build/Debug-iphonesimulator/UnitTest.app/UnitTest306513354#306513354#0(0"0(0#0#98"/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator/UnitTest.app/UnitTest8607810176#416"    cd /Users/hborders/Desktop/CodeRetreat/Heath-Marcel    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator/UnitTest.app/UnitTest -o /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator/UnitTest.app.dSYM0#
+
+CLd /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator/UnitTest.app/UnitTest normal i386
+s306513353.987883
+e306513354.020313
+r1
+xLd
+x/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator/UnitTest.app/UnitTest
+xnormal
+xi386
+lSLF07#2@103"Link /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator/UnitTest.app/UnitTest306513353#306513354#0(0"0(0#0#0"8616348768#935"    cd /Users/hborders/Desktop/CodeRetreat/Heath-Marcel    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator -F/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator -filelist /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/Objects-normal/i386/UnitTest.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -framework UIKit -Xlinker -objc_abi_version -Xlinker 2 -o /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator/UnitTest.app/UnitTest0#
+
+CPhaseScriptExecution "Run Script" /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/Script-7B2D5D4C124504A900EAB733.sh
+s306513839.632987
+e306513839.694998
+r0
+xPhaseScriptExecution
+xRun Script
+x/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/Script-7B2D5D4C124504A900EAB733.sh
+o
+o#  Controlling environment variables:
+o# GTM_DISABLE_ZOMBIES -
+o#   Set to a non-zero value to turn on zombie checks. You will probably
+o#   want to turn this off if you enable leaks.
+oGTM_DISABLE_ZOMBIES=${GTM_DISABLE_ZOMBIES:=1}
+o
+o# GTM_ENABLE_LEAKS -
+o#   Set to a non-zero value to turn on the leaks check. You will probably want
+o#   to disable zombies, otherwise you will get a lot of false positives.
+o
+o# GTM_DISABLE_TERMINATION
+o#   Set to a non-zero value so that the app doesn't terminate when it's finished
+o#   running tests. This is useful when using it with external tools such
+o#   as Instruments.
+o
+o# GTM_LEAKS_SYMBOLS_TO_IGNORE
+o#   List of comma separated symbols that leaks should ignore. Mainly to control
+o#   leaks in frameworks you don't have control over.
+o#   Search this file for GTM_LEAKS_SYMBOLS_TO_IGNORE to see examples.
+o#   Please feel free to add other symbols as you find them but make sure to
+o#   reference Radars or other bug systems so we can track them.
+o
+o# GTM_REMOVE_GCOV_DATA
+o#   Before starting the test, remove any *.gcda files for the current run so
+o#   you won't get errors when the source file has changed and the data can't
+o#   be merged.
+o#
+oGTM_REMOVE_GCOV_DATA=${GTM_REMOVE_GCOV_DATA:=0}
+o
+o# GTM_DISABLE_USERDIR_SETUP
+o#   Controls whether or not CFFIXED_USER_HOME is erased and set up from scratch
+o#   for you each time the script is run. In some cases you may have a wrapper
+o#   script calling this one that takes care of that for us so you can set up
+o#   a certain user configuration.
+oGTM_DISABLE_USERDIR_SETUP=${GTM_DISABLE_USERDIR_SETUP:=0}
+o
+o# GTM_DISABLE_IPHONE_LAUNCH_DAEMONS
+o#   Controls whether or not we launch up the iPhone Launch Daemons before
+o#   we start testing. You need Launch Daemons to test anything that interacts
+o#   with security. Note that it is OFF by default. Set
+o#   GTM_DISABLE_IPHONE_LAUNCH_DAEMONS=0 before calling this script
+o#   to turn it on.
+oGTM_DISABLE_IPHONE_LAUNCH_DAEMONS=${GTM_DISABLE_IPHONE_LAUNCH_DAEMONS:=1}
+o
+oScriptDir=$(dirname "$(echo $0 | sed -e "s,^\([^/]\),$(pwd)/\1,")")
+odirname "$(echo $0 | sed -e "s,^\([^/]\),$(pwd)/\1,")"
+oecho $0 | sed -e "s,^\([^/]\),$(pwd)/\1,"
+opwd
+oScriptName=$(basename "$0")
+obasename "$0"
+oThisScript="${ScriptDir}/${ScriptName}"
+o
+oGTMXcodeNote() {
+o    echo ${ThisScript}:${1}: note: GTM ${2}
+o}
+o
+oif [ "$PLATFORM_NAME" == "iphonesimulator" ]; then
+o  # We kill the iPhone simulator because otherwise we run into issues where
+o  # the unittests fail becuase the simulator is currently running, and
+o  # at this time the iPhone SDK won't allow two simulators running at the same
+o  # time.
+o  set +e
+o  /usr/bin/killall "iPhone Simulator"
+o  set -e
+o
+o  if [ $GTM_REMOVE_GCOV_DATA -ne 0 ]; then
+o    if [ "${OBJECT_FILE_DIR}-${CURRENT_VARIANT}" != "-" ]; then
+o      if [ -d "${OBJECT_FILE_DIR}-${CURRENT_VARIANT}" ]; then
+o        GTMXcodeNote ${LINENO} "Removing any .gcda files"
+o        (cd "${OBJECT_FILE_DIR}-${CURRENT_VARIANT}" && \
+o            find . -type f -name "*.gcda" -print0 | xargs -0 rm -f )
+o      fi
+o    fi
+o  fi
+o
+o  export DYLD_ROOT_PATH="$SDKROOT"
+o  export DYLD_FRAMEWORK_PATH="$CONFIGURATION_BUILD_DIR"
+o  export IPHONE_SIMULATOR_ROOT="$SDKROOT"
+o  export CFFIXED_USER_HOME="$TEMP_FILES_DIR/iPhone Simulator User Dir"
+o
+o  # See http://developer.apple.com/technotes/tn2004/tn2124.html for an
+o  # explanation of these environment variables.
+o
+o  export MallocScribble=YES
+o  export MallocPreScribble=YES
+o  export MallocGuardEdges=YES
+o  export MallocStackLogging=YES
+o  export NSAutoreleaseFreedObjectCheckEnabled=YES
+o
+o  # Turn on the mostly undocumented OBJC_DEBUG stuff.
+o  export OBJC_DEBUG_FRAGILE_SUPERCLASSES=YES
+o  export OBJC_DEBUG_UNLOAD=YES
+o  # Turned off due to the amount of false positives from NS classes.
+o  # export OBJC_DEBUG_FINALIZERS=YES
+o  export OBJC_DEBUG_NIL_SYNC=YES
+o  export OBJC_PRINT_REPLACED_METHODS=YES
+o
+o  if [ $GTM_DISABLE_ZOMBIES -eq 0 ]; then
+o    GTMXcodeNote ${LINENO} "Enabling zombies"
+o    export CFZombieLevel=3
+o    export NSZombieEnabled=YES
+o  fi
+o
+o  if [ $GTM_DISABLE_USERDIR_SETUP -eq 0 ]; then
+o    # Cleanup user home directory
+o    if [ -d "$CFFIXED_USER_HOME" ]; then
+o      rm -rf "$CFFIXED_USER_HOME"
+o    fi
+o    mkdir "$CFFIXED_USER_HOME"
+o    mkdir "$CFFIXED_USER_HOME/Documents"
+o    mkdir -p "$CFFIXED_USER_HOME/Library/Caches"
+o  fi
+o
+o  # 6251475 iPhone simulator leaks @ CFHTTPCookieStore shutdown if
+o  #         CFFIXED_USER_HOME empty
+o  GTM_LEAKS_SYMBOLS_TO_IGNORE="CFHTTPCookieStore"
+o
+o  if [ $GTM_DISABLE_IPHONE_LAUNCH_DAEMONS -eq 0 ]; then
+o    # If we want to test anything that interacts with the keychain, we need
+o    # securityd up and running. See RunIPhoneLaunchDaemons.sh for details.
+o    launchctl submit -l RunIPhoneLaunchDaemons -- "${ScriptDir}/RunIPhoneLaunchDaemons.sh" $IPHONE_SIMULATOR_ROOT $CFFIXED_USER_HOME
+o    # No matter how we exit, we want to shut down our launchctl job.
+o    trap "launchctl remove RunIPhoneLaunchDaemons" INT TERM EXIT
+o  fi
+o
+o  # Start our app.
+o  "$TARGET_BUILD_DIR/$EXECUTABLE_PATH" -RegisterForSystemEvents
+o
+oelse
+o  GTMXcodeNote ${LINENO} "Skipping running of unittests for device build."
+ofi
+oNo matching processes belonging to you were found
+omkdir(40732) malloc: protecting edges
+omkdir(40732) malloc: recording malloc stacks to disk using standard recorder
+omkdir(40732) malloc: enabling scribbling to detect mods to free blocks
+omkdir(40732) malloc: stack logs being written into /tmp/stack-logs.40732.mkdir.V9d9DJ.index
+omkdir(40732) malloc: stack logs deleted from /tmp/stack-logs.40732.mkdir.V9d9DJ.index
+omkdir(40733) malloc: protecting edges
+omkdir(40733) malloc: recording malloc stacks to disk using standard recorder
+omkdir(40733) malloc: enabling scribbling to detect mods to free blocks
+omkdir(40733) malloc: stack logs being written into /tmp/stack-logs.40733.mkdir.5tTQMp.index
+omkdir(40733) malloc: stack logs deleted from /tmp/stack-logs.40733.mkdir.5tTQMp.index
+omkdir(40734) malloc: protecting edges
+omkdir(40734) malloc: recording malloc stacks to disk using standard recorder
+omkdir(40734) malloc: enabling scribbling to detect mods to free blocks
+omkdir(40734) malloc: stack logs being written into /tmp/stack-logs.40734.mkdir.YzarH5.index
+omkdir(40734) malloc: stack logs deleted from /tmp/stack-logs.40734.mkdir.YzarH5.index
+o/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/RunIPhoneUnitTest.sh: line 146: /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator/UnitTest.app/UnitTest: No such file or directory
+lSLF07#2@36"Run custom shell script 'Run Script'306513839#306513839#0(6433"#  Controlling environment variables:# GTM_DISABLE_ZOMBIES -#   Set to a non-zero value to turn on zombie checks. You will probably#   want to turn this off if you enable leaks.GTM_DISABLE_ZOMBIES=${GTM_DISABLE_ZOMBIES:=1}# GTM_ENABLE_LEAKS -#   Set to a non-zero value to turn on the leaks check. You will probably want#   to disable zombies, otherwise you will get a lot of false positives.# GTM_DISABLE_TERMINATION#   Set to a non-zero value so that the app doesn't terminate when it's finished#   running tests. This is useful when using it with external tools such#   as Instruments.# GTM_LEAKS_SYMBOLS_TO_IGNORE#   List of comma separated symbols that leaks should ignore. Mainly to control#   leaks in frameworks you don't have control over.#   Search this file for GTM_LEAKS_SYMBOLS_TO_IGNORE to see examples.#   Please feel free to add other symbols as you find them but make sure to#   reference Radars or other bug systems so we can track them.# GTM_REMOVE_GCOV_DATA#   Before starting the test, remove any *.gcda files for the current run so#   you won't get errors when the source file has changed and the data can't#   be merged.#GTM_REMOVE_GCOV_DATA=${GTM_REMOVE_GCOV_DATA:=0}# GTM_DISABLE_USERDIR_SETUP#   Controls whether or not CFFIXED_USER_HOME is erased and set up from scratch#   for you each time the script is run. In some cases you may have a wrapper#   script calling this one that takes care of that for us so you can set up#   a certain user configuration.GTM_DISABLE_USERDIR_SETUP=${GTM_DISABLE_USERDIR_SETUP:=0}# GTM_DISABLE_IPHONE_LAUNCH_DAEMONS#   Controls whether or not we launch up the iPhone Launch Daemons before#   we start testing. You need Launch Daemons to test anything that interacts#   with security. Note that it is OFF by default. Set#   GTM_DISABLE_IPHONE_LAUNCH_DAEMONS=0 before calling this script#   to turn it on.GTM_DISABLE_IPHONE_LAUNCH_DAEMONS=${GTM_DISABLE_IPHONE_LAUNCH_DAEMONS:=1}ScriptDir=$(dirname "$(echo $0 | sed -e "s,^\([^/]\),$(pwd)/\1,")")dirname "$(echo $0 | sed -e "s,^\([^/]\),$(pwd)/\1,")"echo $0 | sed -e "s,^\([^/]\),$(pwd)/\1,"pwdScriptName=$(basename "$0")basename "$0"ThisScript="${ScriptDir}/${ScriptName}"GTMXcodeNote() {    echo ${ThisScript}:${1}: note: GTM ${2}}if [ "$PLATFORM_NAME" == "iphonesimulator" ]; then  # We kill the iPhone simulator because otherwise we run into issues where  # the unittests fail becuase the simulator is currently running, and  # at this time the iPhone SDK won't allow two simulators running at the same  # time.  set +e  /usr/bin/killall "iPhone Simulator"  set -e  if [ $GTM_REMOVE_GCOV_DATA -ne 0 ]; then    if [ "${OBJECT_FILE_DIR}-${CURRENT_VARIANT}" != "-" ]; then      if [ -d "${OBJECT_FILE_DIR}-${CURRENT_VARIANT}" ]; then        GTMXcodeNote ${LINENO} "Removing any .gcda files"        (cd "${OBJECT_FILE_DIR}-${CURRENT_VARIANT}" && \            find . -type f -name "*.gcda" -print0 | xargs -0 rm -f )      fi    fi  fi  export DYLD_ROOT_PATH="$SDKROOT"  export DYLD_FRAMEWORK_PATH="$CONFIGURATION_BUILD_DIR"  export IPHONE_SIMULATOR_ROOT="$SDKROOT"  export CFFIXED_USER_HOME="$TEMP_FILES_DIR/iPhone Simulator User Dir"  # See http://developer.apple.com/technotes/tn2004/tn2124.html for an  # explanation of these environment variables.  export MallocScribble=YES  export MallocPreScribble=YES  export MallocGuardEdges=YES  export MallocStackLogging=YES  export NSAutoreleaseFreedObjectCheckEnabled=YES  # Turn on the mostly undocumented OBJC_DEBUG stuff.  export OBJC_DEBUG_FRAGILE_SUPERCLASSES=YES  export OBJC_DEBUG_UNLOAD=YES  # Turned off due to the amount of false positives from NS classes.  # export OBJC_DEBUG_FINALIZERS=YES  export OBJC_DEBUG_NIL_SYNC=YES  export OBJC_PRINT_REPLACED_METHODS=YES  if [ $GTM_DISABLE_ZOMBIES -eq 0 ]; then    GTMXcodeNote ${LINENO} "Enabling zombies"    export CFZombieLevel=3    export NSZombieEnabled=YES  fi  if [ $GTM_DISABLE_USERDIR_SETUP -eq 0 ]; then    # Cleanup user home directory    if [ -d "$CFFIXED_USER_HOME" ]; then      rm -rf "$CFFIXED_USER_HOME"    fi    mkdir "$CFFIXED_USER_HOME"    mkdir "$CFFIXED_USER_HOME/Documents"    mkdir -p "$CFFIXED_USER_HOME/Library/Caches"  fi  # 6251475 iPhone simulator leaks @ CFHTTPCookieStore shutdown if  #         CFFIXED_USER_HOME empty  GTM_LEAKS_SYMBOLS_TO_IGNORE="CFHTTPCookieStore"  if [ $GTM_DISABLE_IPHONE_LAUNCH_DAEMONS -eq 0 ]; then    # If we want to test anything that interacts with the keychain, we need    # securityd up and running. See RunIPhoneLaunchDaemons.sh for details.    launchctl submit -l RunIPhoneLaunchDaemons -- "${ScriptDir}/RunIPhoneLaunchDaemons.sh" $IPHONE_SIMULATOR_ROOT $CFFIXED_USER_HOME    # No matter how we exit, we want to shut down our launchctl job.    trap "launchctl remove RunIPhoneLaunchDaemons" INT TERM EXIT  fi  # Start our app.  "$TARGET_BUILD_DIR/$EXECUTABLE_PATH" -RegisterForSystemEventselse  GTMXcodeNote ${LINENO} "Skipping running of unittests for device build."fiNo matching processes belonging to you were foundmkdir(40732) malloc: protecting edgesmkdir(40732) malloc: recording malloc stacks to disk using standard recordermkdir(40732) malloc: enabling scribbling to detect mods to free blocksmkdir(40732) malloc: stack logs being written into /tmp/stack-logs.40732.mkdir.V9d9DJ.indexmkdir(40732) malloc: stack logs deleted from /tmp/stack-logs.40732.mkdir.V9d9DJ.indexmkdir(40733) malloc: protecting edgesmkdir(40733) malloc: recording malloc stacks to disk using standard recordermkdir(40733) malloc: enabling scribbling to detect mods to free blocksmkdir(40733) malloc: stack logs being written into /tmp/stack-logs.40733.mkdir.5tTQMp.indexmkdir(40733) malloc: stack logs deleted from /tmp/stack-logs.40733.mkdir.5tTQMp.indexmkdir(40734) malloc: protecting edgesmkdir(40734) malloc: recording malloc stacks to disk using standard recordermkdir(40734) malloc: enabling scribbling to detect mods to free blocksmkdir(40734) malloc: stack logs being written into /tmp/stack-logs.40734.mkdir.YzarH5.indexmkdir(40734) malloc: stack logs deleted from /tmp/stack-logs.40734.mkdir.YzarH5.index/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/RunIPhoneUnitTest.sh: line 146: /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator/UnitTest.app/UnitTest: No such file or directory128(13@38"#  Controlling environment variables:306513839#1#38#0(1@0"0(13@24"# GTM_DISABLE_ZOMBIES -306513839#39#24#0(1@0"0(13@72"#   Set to a non-zero value to turn on zombie checks. You will probably306513839#63#72#0(1@0"0(13@47"#   want to turn this off if you enable leaks.306513839#135#47#0(1@0"0(13@46"GTM_DISABLE_ZOMBIES=${GTM_DISABLE_ZOMBIES:=1}306513839#182#46#0(1@0"0(13@21"# GTM_ENABLE_LEAKS -306513839#229#21#0(1@0"0(13@79"#   Set to a non-zero value to turn on the leaks check. You will probably want306513839#250#79#0(1@0"0(13@73"#   to disable zombies, otherwise you will get a lot of false positives.306513839#329#73#0(1@0"0(13@26"# GTM_DISABLE_TERMINATION306513839#403#26#0(1@0"0(13@81"#   Set to a non-zero value so that the app doesn't terminate when it's finished306513839#429#81#0(1@0"0(13@73"#   running tests. This is useful when using it with external tools such306513839#510#73#0(1@0"0(13@20"#   as Instruments.306513839#583#20#0(1@0"0(13@30"# GTM_LEAKS_SYMBOLS_TO_IGNORE306513839#604#30#0(1@0"0(13@80"#   List of comma separated symbols that leaks should ignore. Mainly to control306513839#634#80#0(1@0"0(13@53"#   leaks in frameworks you don't have control over.306513839#714#53#0(1@0"0(13@70"#   Search this file for GTM_LEAKS_SYMBOLS_TO_IGNORE to see examples.306513839#767#70#0(1@0"0(13@76"#   Please feel free to add other symbols as you find them but make sure to306513839#837#76#0(1@0"0(13@64"#   reference Radars or other bug systems so we can track them.306513839#913#64#0(1@0"0(13@23"# GTM_REMOVE_GCOV_DATA306513839#978#23#0(1@0"0(13@77"#   Before starting the test, remove any *.gcda files for the current run so306513839#1001#77#0(1@0"0(13@77"#   you won't get errors when the source file has changed and the data can't306513839#1078#77#0(1@0"0(13@15"#   be merged.306513839#1155#15#0(1@0"0(13@2"#306513839#1170#2#0(1@0"0(13@48"GTM_REMOVE_GCOV_DATA=${GTM_REMOVE_GCOV_DATA:=0}306513839#1172#48#0(1@0"0(13@28"# GTM_DISABLE_USERDIR_SETUP306513839#1221#28#0(1@0"0(13@80"#   Controls whether or not CFFIXED_USER_HOME is erased and set up from scratch306513839#1249#80#0(1@0"0(13@78"#   for you each time the script is run. In some cases you may have a wrapper306513839#1329#78#0(1@0"0(13@77"#   script calling this one that takes care of that for us so you can set up306513839#1407#77#0(1@0"0(13@34"#   a certain user configuration.306513839#1484#34#0(1@0"0(13@58"GTM_DISABLE_USERDIR_SETUP=${GTM_DISABLE_USERDIR_SETUP:=0}306513839#1518#58#0(1@0"0(13@36"# GTM_DISABLE_IPHONE_LAUNCH_DAEMONS306513839#1577#36#0(1@0"0(13@74"#   Controls whether or not we launch up the iPhone Launch Daemons before306513839#1613#74#0(1@0"0(13@78"#   we start testing. You need Launch Daemons to test anything that interacts306513839#1687#78#0(1@0"0(13@55"#   with security. Note that it is OFF by default. Set306513839#1765#55#0(1@0"0(13@67"#   GTM_DISABLE_IPHONE_LAUNCH_DAEMONS=0 before calling this script306513839#1820#67#0(1@0"0(13@19"#   to turn it on.306513839#1887#19#0(1@0"0(13@74"GTM_DISABLE_IPHONE_LAUNCH_DAEMONS=${GTM_DISABLE_IPHONE_LAUNCH_DAEMONS:=1}306513839#1906#74#0(1@0"0(13@68"ScriptDir=$(dirname "$(echo $0 | sed -e "s,^\([^/]\),$(pwd)/\1,")")306513839#1981#68#0(1@0"0(13@55"dirname "$(echo $0 | sed -e "s,^\([^/]\),$(pwd)/\1,")"306513839#2049#55#0(1@0"0(13@42"echo $0 | sed -e "s,^\([^/]\),$(pwd)/\1,"306513839#2104#42#0(1@0"0(13@4"pwd306513839#2146#4#0(1@0"0(13@28"ScriptName=$(basename "$0")306513839#2150#28#0(1@0"0(13@14"basename "$0"306513839#2178#14#0(1@0"0(13@40"ThisScript="${ScriptDir}/${ScriptName}"306513839#2192#40#0(1@0"0(13@17"GTMXcodeNote() {306513839#2233#17#0(1@0"0(13@44"    echo ${ThisScript}:${1}: note: GTM ${2}306513839#2250#44#0(1@0"0(13@2"}306513839#2294#2#0(1@0"0(13@51"if [ "$PLATFORM_NAME" == "iphonesimulator" ]; then306513839#2297#51#0(1@0"0(13@76"  # We kill the iPhone simulator because otherwise we run into issues where306513839#2348#76#0(1@0"0(13@71"  # the unittests fail becuase the simulator is currently running, and306513839#2424#71#0(1@0"0(13@79"  # at this time the iPhone SDK won't allow two simulators running at the same306513839#2495#79#0(1@0"0(13@10"  # time.306513839#2574#10#0(1@0"0(13@9"  set +e306513839#2584#9#0(1@0"0(13@38"  /usr/bin/killall "iPhone Simulator"306513839#2593#38#0(1@0"0(13@9"  set -e306513839#2631#9#0(1@0"0(13@43"  if [ $GTM_REMOVE_GCOV_DATA -ne 0 ]; then306513839#2641#43#0(1@0"0(13@64"    if [ "${OBJECT_FILE_DIR}-${CURRENT_VARIANT}" != "-" ]; then306513839#2684#64#0(1@0"0(13@62"      if [ -d "${OBJECT_FILE_DIR}-${CURRENT_VARIANT}" ]; then306513839#2748#62#0(1@0"0(13@58"        GTMXcodeNote ${LINENO} "Removing any .gcda files"306513839#2810#58#0(1@0"0(13@57"        (cd "${OBJECT_FILE_DIR}-${CURRENT_VARIANT}" && \306513839#2868#57#0(1@0"0(13@69"            find . -type f -name "*.gcda" -print0 | xargs -0 rm -f )306513839#2925#69#0(1@0"0(13@9"      fi306513839#2994#9#0(1@0"0(13@7"    fi306513839#3003#7#0(1@0"0(13@5"  fi306513839#3010#5#0(1@0"0(13@35"  export DYLD_ROOT_PATH="$SDKROOT"306513839#3016#35#0(1@0"0(13@56"  export DYLD_FRAMEWORK_PATH="$CONFIGURATION_BUILD_DIR"306513839#3051#56#0(1@0"0(13@42"  export IPHONE_SIMULATOR_ROOT="$SDKROOT"306513839#3107#42#0(1@0"0(13@71"  export CFFIXED_USER_HOME="$TEMP_FILES_DIR/iPhone Simulator User Dir"306513839#3149#71#0(1@0"0(13@71"  # See http://developer.apple.com/technotes/tn2004/tn2124.html for an306513839#3221#71#0(1@0"0(13@48"  # explanation of these environment variables.306513839#3292#48#0(1@0"0(13@28"  export MallocScribble=YES306513839#3341#28#0(1@0"0(13@31"  export MallocPreScribble=YES306513839#3369#31#0(1@0"0(13@30"  export MallocGuardEdges=YES306513839#3400#30#0(1@0"0(13@32"  export MallocStackLogging=YES306513839#3430#32#0(1@0"0(13@50"  export NSAutoreleaseFreedObjectCheckEnabled=YES306513839#3462#50#0(1@0"0(13@54"  # Turn on the mostly undocumented OBJC_DEBUG stuff.306513839#3513#54#0(1@0"0(13@45"  export OBJC_DEBUG_FRAGILE_SUPERCLASSES=YES306513839#3567#45#0(1@0"0(13@31"  export OBJC_DEBUG_UNLOAD=YES306513839#3612#31#0(1@0"0(13@69"  # Turned off due to the amount of false positives from NS classes.306513839#3643#69#0(1@0"0(13@37"  # export OBJC_DEBUG_FINALIZERS=YES306513839#3712#37#0(1@0"0(13@33"  export OBJC_DEBUG_NIL_SYNC=YES306513839#3749#33#0(1@0"0(13@41"  export OBJC_PRINT_REPLACED_METHODS=YES306513839#3782#41#0(1@0"0(13@42"  if [ $GTM_DISABLE_ZOMBIES -eq 0 ]; then306513839#3824#42#0(1@0"0(13@46"    GTMXcodeNote ${LINENO} "Enabling zombies"306513839#3866#46#0(1@0"0(13@27"    export CFZombieLevel=3306513839#3912#27#0(1@0"0(13@31"    export NSZombieEnabled=YES306513839#3939#31#0(1@0"0(13@5"  fi306513839#3970#5#0(1@0"0(13@48"  if [ $GTM_DISABLE_USERDIR_SETUP -eq 0 ]; then306513839#3976#48#0(1@0"0(13@34"    # Cleanup user home directory306513839#4024#34#0(1@0"0(13@41"    if [ -d "$CFFIXED_USER_HOME" ]; then306513839#4058#41#0(1@0"0(13@34"      rm -rf "$CFFIXED_USER_HOME"306513839#4099#34#0(1@0"0(13@7"    fi306513839#4133#7#0(1@0"0(13@31"    mkdir "$CFFIXED_USER_HOME"306513839#4140#31#0(1@0"0(13@41"    mkdir "$CFFIXED_USER_HOME/Documents"306513839#4171#41#0(1@0"0(13@49"    mkdir -p "$CFFIXED_USER_HOME/Library/Caches"306513839#4212#49#0(1@0"0(13@5"  fi306513839#4261#5#0(1@0"0(13@67"  # 6251475 iPhone simulator leaks @ CFHTTPCookieStore shutdown if306513839#4267#67#0(1@0"0(13@36"  #         CFFIXED_USER_HOME empty306513839#4334#36#0(1@0"0(13@50"  GTM_LEAKS_SYMBOLS_TO_IGNORE="CFHTTPCookieStore"306513839#4370#50#0(1@0"0(13@56"  if [ $GTM_DISABLE_IPHONE_LAUNCH_DAEMONS -eq 0 ]; then306513839#4421#56#0(1@0"0(13@76"    # If we want to test anything that interacts with the keychain, we need306513839#4477#76#0(1@0"0(13@75"    # securityd up and running. See RunIPhoneLaunchDaemons.sh for details.306513839#4553#75#0(1@0"0(13@133"    launchctl submit -l RunIPhoneLaunchDaemons -- "${ScriptDir}/RunIPhoneLaunchDaemons.sh" $IPHONE_SIMULATOR_ROOT $CFFIXED_USER_HOME306513839#4628#133#0(1@0"0(13@69"    # No matter how we exit, we want to shut down our launchctl job.306513839#4761#69#0(1@0"0(13@65"    trap "launchctl remove RunIPhoneLaunchDaemons" INT TERM EXIT306513839#4830#65#0(1@0"0(13@5"  fi306513839#4895#5#0(1@0"0(13@19"  # Start our app.306513839#4901#19#0(1@0"0(13@64"  "$TARGET_BUILD_DIR/$EXECUTABLE_PATH" -RegisterForSystemEvents306513839#4920#64#0(1@0"0(13@5"else306513839#4985#5#0(1@0"0(13@75"  GTMXcodeNote ${LINENO} "Skipping running of unittests for device build."306513839#4990#75#0(1@0"0(13@3"fi306513839#5065#3#0(1@0"0(13@50"No matching processes belonging to you were found306513839#5068#50#0(1@0"0(13@38"mkdir(40732) malloc: protecting edges306513839#5118#38#0(1@0"0(13@77"mkdir(40732) malloc: recording malloc stacks to disk using standard recorder306513839#5156#77#0(1@0"0(13@71"mkdir(40732) malloc: enabling scribbling to detect mods to free blocks306513839#5233#71#0(1@0"0(13@92"mkdir(40732) malloc: stack logs being written into /tmp/stack-logs.40732.mkdir.V9d9DJ.index306513839#5304#92#0(1@0"0(13@86"mkdir(40732) malloc: stack logs deleted from /tmp/stack-logs.40732.mkdir.V9d9DJ.index306513839#5396#86#0(1@0"0(13@38"mkdir(40733) malloc: protecting edges306513839#5482#38#0(1@0"0(13@77"mkdir(40733) malloc: recording malloc stacks to disk using standard recorder306513839#5520#77#0(1@0"0(13@71"mkdir(40733) malloc: enabling scribbling to detect mods to free blocks306513839#5597#71#0(1@0"0(13@92"mkdir(40733) malloc: stack logs being written into /tmp/stack-logs.40733.mkdir.5tTQMp.index306513839#5668#92#0(1@0"0(13@86"mkdir(40733) malloc: stack logs deleted from /tmp/stack-logs.40733.mkdir.5tTQMp.index306513839#5760#86#0(1@0"0(13@38"mkdir(40734) malloc: protecting edges306513839#5846#38#0(1@0"0(13@77"mkdir(40734) malloc: recording malloc stacks to disk using standard recorder306513839#5884#77#0(1@0"0(13@71"mkdir(40734) malloc: enabling scribbling to detect mods to free blocks306513839#5961#71#0(1@0"0(13@92"mkdir(40734) malloc: stack logs being written into /tmp/stack-logs.40734.mkdir.YzarH5.index306513839#6032#92#0(1@0"0(13@86"mkdir(40734) malloc: stack logs deleted from /tmp/stack-logs.40734.mkdir.YzarH5.index306513839#6124#86#0(1@0"0(4@222"/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/GTM/UnitTesting/RunIPhoneUnitTest.sh: line 146: /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator/UnitTest.app/UnitTest: No such file or directory306513839#6210#223#0(1@0"0(0#0#0"8617089312#17797"    cd /Users/hborders/Desktop/CodeRetreat/Heath-Marcel    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER hborders    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_UNIVERSAL_IPHONE_OS i386    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build    setenv BUILD_ROOT /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build    setenv BUILD_STYLE Debug    setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator    setenv CACHE_ROOT /var/folders/Az/Az+0r2ubHtm3wMGMatRuQE+++TI/-Caches-/com.apple.Xcode.501    setenv CCHROOT /var/folders/Az/Az+0r2ubHtm3wMGMatRuQE+++TI/-Caches-/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator/UnitTest.app    setenv CODE_SIGN_CONTEXT_CLASS XCCodeSignContext    setenv CODE_SIGN_IDENTITY "iPhone Developer"    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/Az/Az+0r2ubHtm3wMGMatRuQE+++TI/-Caches-/com.apple.Xcode.501/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator    setenv CONFIGURATION_TEMP_DIR /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator    setenv CONTENTS_FOLDER_PATH UnitTest.app    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv DEVELOPER_BIN_DIR /Developer/usr/bin    setenv DEVELOPER_DIR /Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer/Library    setenv DEVELOPER_SDK_DIR /Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer/Tools    setenv DEVELOPER_USR_DIR /Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH UnitTest.app/English.lproj/Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/Heath-Marcel.dst    setenv DWARF_DSYM_FILE_NAME UnitTest.app.dSYM    setenv DWARF_DSYM_FOLDER_PATH /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator    setenv EFFECTIVE_PLATFORM_NAME -iphonesimulator    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".svn CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) CVS .svn *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH UnitTest.app/Executables    setenv EXECUTABLE_FOLDER_PATH UnitTest.app    setenv EXECUTABLE_NAME UnitTest    setenv EXECUTABLE_PATH UnitTest.app/UnitTest    setenv FILE_LIST /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH UnitTest.app/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator\" "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME UnitTest.app    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD c99    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_OBJC_LEGACY_DISPATCH YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h    setenv GCC_SYMBOLS_PRIVATE_EXTERN YES    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION 4.2    setenv GCC_VERSION_IDENTIFIER __2    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator/include\" "    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE UnitTest-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH UnitTest.app/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH UnitTest.app/English.lproj/InfoPlist.strings    setenv INSTALL_DIR /tmp/Heath-Marcel.dst/Users/hborders/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER hborders    setenv INSTALL_PATH /Users/hborders/Applications    setenv INSTALL_ROOT /tmp/Heath-Marcel.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 3.0    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH UnitTest.app/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-LinkMap-normal-i386.txt    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEX /Developer/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator\" "    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/Objects-normal/i386/UnitTest.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH UnitTest.app/English.lproj    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv MAC_OS_X_VERSION_ACTUAL 1064    setenv MAC_OS_X_VERSION_MAJOR 1060    setenv MAC_OS_X_VERSION_MINOR 0604    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJC_ABI_VERSION 2    setenv OBJECT_FILE_DIR /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/Objects-normal    setenv OBJROOT /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_LDFLAGS "-framework Foundation -framework UIKit"    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer/Headers /Developer/SDKs /Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH UnitTest.app/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS objective-c    setenv PKGINFO_FILE_PATH /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/PkgInfo    setenv PKGINFO_PATH UnitTest.app/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr    setenv PLATFORM_DIR /Developer/Platforms/iPhoneSimulator.platform    setenv PLATFORM_NAME iphonesimulator    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH UnitTest.app/PlugIns    setenv PREBINDING NO    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH UnitTest.app/PrivateHeaders    setenv PRODUCT_NAME UnitTest    setenv PRODUCT_SETTINGS_PATH /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/UnitTest-Info.plist    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT Heath-Marcel    setenv PROJECT_DERIVED_FILE_DIR /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/DerivedSources    setenv PROJECT_DIR /Users/hborders/Desktop/CodeRetreat/Heath-Marcel    setenv PROJECT_FILE_PATH /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/Heath-Marcel.xcodeproj    setenv PROJECT_NAME Heath-Marcel    setenv PROJECT_TEMP_DIR /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build    setenv PUBLIC_HEADERS_FOLDER_PATH UnitTest.app/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator\" "    setenv RUN_CLANG_STATIC_ANALYZER YES    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH UnitTest.app/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk    setenv SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk    setenv SDK_NAME iphonesimulator4.1    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH UnitTest.app/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/Az/Az+0r2ubHtm3wMGMatRuQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH UnitTest.app/SharedSupport    setenv SKIP_INSTALL NO    setenv SOURCE_ROOT /Users/hborders/Desktop/CodeRetreat/Heath-Marcel    setenv SRCROOT /Users/hborders/Desktop/CodeRetreat/Heath-Marcel    setenv STANDARD_C_PLUS_PLUS_LIBRARY_TYPE dynamic    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SUPPORTED_DEVICE_FAMILIES 1    setenv SYMBOL_REPOSITORY_DIR /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/SymbolRepositories    setenv SYMROOT /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1    setenv TARGETNAME UnitTest    setenv TARGET_BUILD_DIR /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator    setenv TARGET_NAME UnitTest    setenv TARGET_TEMP_DIR /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build    setenv TEMP_DIR /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build    setenv TEMP_FILES_DIR /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build    setenv TEMP_FILE_DIR /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build    setenv TEMP_ROOT /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH UnitTest.app    setenv UNSTRIPPED_PRODUCT NO    setenv USER hborders    setenv USER_APPS_DIR /Users/hborders/Applications    setenv USER_LIBRARY_DIR /Users/hborders/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS i386    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH UnitTest.app/version.plist    setenv VERSION_INFO_BUILDER hborders    setenv VERSION_INFO_FILE UnitTest_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:UnitTest  PROJECT:Heath-Marcel-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME UnitTest.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Developer/Library/Xcode    setenv XCODE_VERSION_ACTUAL 0324    setenv XCODE_VERSION_MAJOR 0300    setenv XCODE_VERSION_MINOR 0320    setenv YACC /Developer/usr/bin/yacc    /bin/sh -c /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/Script-7B2D5D4C124504A900EAB733.sh1#
+
+CProcessInfoPlistFile /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator/UnitTest.app/Info.plist UnitTest-Info.plist
+s306513837.345146
+e306513837.348425
+r1
+xProcessInfoPlistFile
+x/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator/UnitTest.app/Info.plist
+xUnitTest-Info.plist
+lSLF07#2@27"Process UnitTest-Info.plist306513837#306513837#0(0"0(0#0#68"/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/UnitTest-Info.plist8611297504#512"    cd /Users/hborders/Desktop/CodeRetreat/Heath-Marcel    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility UnitTest-Info.plist -genpkginfo /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator/UnitTest.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator/UnitTest.app/Info.plist0#
+
+CProcessPCH /var/folders/Az/Az+0r2ubHtm3wMGMatRuQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIKit-bsaxhxjefgdywxdrvrlriikbpzbj/UIKit.h.pth /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s306513837.725551
+e306513838.303717
+r1
+xProcessPCH
+x/var/folders/Az/Az+0r2ubHtm3wMGMatRuQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIKit-bsaxhxjefgdywxdrvrlriikbpzbj/UIKit.h.pth
+x/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:9:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h:10:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h:9:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:26:
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h:60:23: error: expected function body after function declarator
+o   CFDataRef metadata) CG_AVAILABLE_STARTING(__MAC_10_7, __IPHONE_4_0);
+o                       ^
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:9:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h:10:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h:9:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:8:
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGBase.h:21:32: note: instantiated from:
+o # define CG_AVAILABLE_STARTING __OSX_AVAILABLE_STARTING
+o                                ^
+o<scratch space>:82:1: note: instantiated from:
+o __AVAILABILITY_INTERNAL__MAC_10_7
+o ^
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:250:91: error: expected a type
+o + (void)animateWithDuration:(NSTimeInterval)duration delay:(NSTimeInterval)delay options:(UIViewAnimationOptions)options animations:(void (^)(void))animations completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o                                                                                           ^
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:256:86: error: expected a type
+o + (void)transitionWithView:(UIView *)view duration:(NSTimeInterval)duration options:(UIViewAnimationOptions)options animations:(void (^)(void))animations completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o                                                                                      ^
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:258:114: error: expected a type
+o + (void)transitionFromView:(UIView *)fromView toView:(UIView *)toView duration:(NSTimeInterval)duration options:(UIViewAnimationOptions)options completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0); // toView added to fromView.superview, fromView removed from its superview
+o                                                                                                                  ^
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:13:
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:187:31: error: unknown type name 'UIApplicationState'
+o @property(nonatomic,readonly) UIApplicationState applicationState __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o                               ^
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:190:4: error: expected a type
+o - (UIBackgroundTaskIdentifier)beginBackgroundTaskWithExpirationHandler:(void(^)(void))handler  __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o    ^
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:191:28: error: expected a type
+o - (void)endBackgroundTask:(UIBackgroundTaskIdentifier)identifier __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o                            ^
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:202:45: error: expected a type
+o - (void)registerForRemoteNotificationTypes:(UIRemoteNotificationType)types __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_3_0);
+o                                             ^
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:206:4: error: expected a type
+o - (UIRemoteNotificationType)enabledRemoteNotificationTypes __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_3_0);
+o    ^
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:73:
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextView.h:82:22: error: unknown type name 'UIDataDetectorTypes'
+o @property(nonatomic) UIDataDetectorTypes dataDetectorTypes __OSX_AVAILABLE_STARTING(__MAC_NA, __IPHONE_3_0);
+o                      ^
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:79:
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h:54:22: error: unknown type name 'UIDataDetectorTypes'
+o @property(nonatomic) UIDataDetectorTypes dataDetectorTypes __OSX_AVAILABLE_STARTING(__MAC_NA, __IPHONE_3_0);
+o                      ^
+o11 errors generated.
+lSLF07#2@152"Precompile /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h306513837#306513838#0(7613"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:9:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h:10:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h:9:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:26:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h:60:23: error: expected function body after function declarator   CFDataRef metadata) CG_AVAILABLE_STARTING(__MAC_10_7, __IPHONE_4_0);                       ^In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:9:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h:10:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h:9:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:8:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGBase.h:21:32: note: instantiated from: # define CG_AVAILABLE_STARTING __OSX_AVAILABLE_STARTING                                ^<scratch space>:82:1: note: instantiated from: __AVAILABILITY_INTERNAL__MAC_10_7 ^In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:250:91: error: expected a type + (void)animateWithDuration:(NSTimeInterval)duration delay:(NSTimeInterval)delay options:(UIViewAnimationOptions)options animations:(void (^)(void))animations completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                                                                                           ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:256:86: error: expected a type + (void)transitionWithView:(UIView *)view duration:(NSTimeInterval)duration options:(UIViewAnimationOptions)options animations:(void (^)(void))animations completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                                                                                      ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:258:114: error: expected a type + (void)transitionFromView:(UIView *)fromView toView:(UIView *)toView duration:(NSTimeInterval)duration options:(UIViewAnimationOptions)options completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0); // toView added to fromView.superview, fromView removed from its superview                                                                                                                  ^In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:13:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:187:31: error: unknown type name 'UIApplicationState' @property(nonatomic,readonly) UIApplicationState applicationState __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                               ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:190:4: error: expected a type - (UIBackgroundTaskIdentifier)beginBackgroundTaskWithExpirationHandler:(void(^)(void))handler  __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);    ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:191:28: error: expected a type - (void)endBackgroundTask:(UIBackgroundTaskIdentifier)identifier __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                            ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:202:45: error: expected a type - (void)registerForRemoteNotificationTypes:(UIRemoteNotificationType)types __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_3_0);                                             ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:206:4: error: expected a type - (UIRemoteNotificationType)enabledRemoteNotificationTypes __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_3_0);    ^In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:73:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextView.h:82:22: error: unknown type name 'UIDataDetectorTypes' @property(nonatomic) UIDataDetectorTypes dataDetectorTypes __OSX_AVAILABLE_STARTING(__MAC_NA, __IPHONE_3_0);                      ^In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:79:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h:54:22: error: unknown type name 'UIDataDetectorTypes' @property(nonatomic) UIDataDetectorTypes dataDetectorTypes __OSX_AVAILABLE_STARTING(__MAC_NA, __IPHONE_3_0);                      ^11 errors generated.1(25@46"Analyzer skipped this file due to parse errors306513838#18446744073709551615#0#11(25@48"expected function body after function declarator306513838#18446744073709551615#0#0(6@155"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h302679128#60#0#60#0#0"0(25@15"expected a type306513838#18446744073709551615#0#0(6@142"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h303200621#250#0#250#0#0"0(25@15"expected a type306513838#18446744073709551615#0#0(6@142"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h303200621#256#0#256#0#0"0(25@15"expected a type306513838#18446744073709551615#0#0(6@142"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h303200621#258#0#258#0#0"0(25@38"unknown type name 'UIApplicationState'306513838#18446744073709551615#0#0(6@149"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#187#0#187#0#0"0(25@15"expected a type306513838#18446744073709551615#0#0(6@149"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#190#0#190#0#0"0(25@15"expected a type306513838#18446744073709551615#0#0(6@149"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#191#0#191#0#0"0(25@15"expected a type306513838#18446744073709551615#0#0(6@149"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#202#0#202#0#0"0(25@15"expected a type306513838#18446744073709551615#0#0(6@149"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#206#0#206#0#0"0(25@39"unknown type name 'UIDataDetectorTypes'306513838#18446744073709551615#0#0(6@146"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextView.h303200622#82#0#82#0#0"0(25@39"unknown type name 'UIDataDetectorTypes'306513838#18446744073709551615#0#0(6@145"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h303200623#54#0#54#0#0"0(6@155"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h302679128#0#0#0#0#0"0(0#0#141"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h8630706208#1937"    cd /Users/hborders/Desktop/CodeRetreat/Heath-Marcel    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-generated-files.hmap -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-own-target-headers.hmap -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-all-target-headers.hmap -iquote /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-project-headers.hmap -F/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator/include -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/DerivedSources/i386 -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/DerivedSources -c /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h -o /var/folders/Az/Az+0r2ubHtm3wMGMatRuQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIKit-bsaxhxjefgdywxdrvrlriikbpzbj/UIKit.h.pth0#
+
+CProcessPCH /var/folders/Az/Az+0r2ubHtm3wMGMatRuQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIKit-dsviovxsiqksudgtccjhhbmhccig/UIKit.h.gch /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h normal i386 objective-c com.apple.compilers.gcc.4_2
+s306513837.724564
+e306513838.761484
+r1
+xProcessPCH
+x/var/folders/Az/Az+0r2ubHtm3wMGMatRuQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIKit-dsviovxsiqksudgtccjhhbmhccig/UIKit.h.gch
+x/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@152"Precompile /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h306513837#306513838#0(0"0(0#0#141"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h8632243232#2000"    cd /Users/hborders/Desktop/CodeRetreat/Heath-Marcel    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-generated-files.hmap -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-own-target-headers.hmap -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-all-target-headers.hmap -iquote /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/UnitTest-project-headers.hmap -F/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator/include -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/DerivedSources/i386 -I/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Heath-Marcel.build/Debug-iphonesimulator/UnitTest.build/DerivedSources -c /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h -o /var/folders/Az/Az+0r2ubHtm3wMGMatRuQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIKit-dsviovxsiqksudgtccjhhbmhccig/UIKit.h.gch0#
+
+CTouch /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator/UnitTest.app
+s306513505.433370
+e306513505.437055
+r1
+xTouch
+x/Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator/UnitTest.app
+lSLF07#2@95"Touch /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator/UnitTest.app306513505#306513505#0(0"0(0#0#0"8632315264#299"    cd /Users/hborders/Desktop/CodeRetreat/Heath-Marcel    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/hborders/Desktop/CodeRetreat/Heath-Marcel/build/Debug-iphonesimulator/UnitTest.app0#
+
