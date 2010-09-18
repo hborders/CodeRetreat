@@ -23,7 +23,11 @@
 		7B2D5D3B1245048400EAB733 /* GTMSenTestCase.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B2D5C28124503B200EAB733 /* GTMSenTestCase.m */; };
 		7B2D5D3C1245048400EAB733 /* GTMUnitTestDevLog.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B2D5C30124503B200EAB733 /* GTMUnitTestDevLog.m */; };
 		7B2D5D91124505EA00EAB733 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
-		7B2D5DC5124506A300EAB733 /* TestTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B2D5DC4124506A300EAB733 /* TestTest.m */; };
+		7B2D5DF0124508AC00EAB733 /* GameBoard.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B2D5DEF124508AC00EAB733 /* GameBoard.m */; };
+		7B2D5DF1124508AC00EAB733 /* GameBoard.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B2D5DEF124508AC00EAB733 /* GameBoard.m */; };
+		7B2D5DF41245099A00EAB733 /* Cell.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B2D5DF31245099A00EAB733 /* Cell.m */; };
+		7B2D5DF51245099A00EAB733 /* Cell.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B2D5DF31245099A00EAB733 /* Cell.m */; };
+		7B2D5DF8124509F700EAB733 /* CellTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B2D5DF7124509F700EAB733 /* CellTest.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -209,7 +213,11 @@
 		7B2D5CDA1245040C00EAB733 /* GTMValidatingContainers.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = GTMValidatingContainers.m; path = Foundation/GTMValidatingContainers.m; sourceTree = "<group>"; };
 		7B2D5CDB1245040C00EAB733 /* GTMValidatingContainersTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = GTMValidatingContainersTest.m; path = Foundation/GTMValidatingContainersTest.m; sourceTree = "<group>"; };
 		7B2D5D341245041A00EAB733 /* GTMDefines.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GTMDefines.h; sourceTree = "<group>"; };
-		7B2D5DC4124506A300EAB733 /* TestTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestTest.m; sourceTree = "<group>"; };
+		7B2D5DEE124508AC00EAB733 /* GameBoard.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GameBoard.h; sourceTree = "<group>"; };
+		7B2D5DEF124508AC00EAB733 /* GameBoard.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GameBoard.m; sourceTree = "<group>"; };
+		7B2D5DF21245099A00EAB733 /* Cell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Cell.h; sourceTree = "<group>"; };
+		7B2D5DF31245099A00EAB733 /* Cell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Cell.m; sourceTree = "<group>"; };
+		7B2D5DF7124509F700EAB733 /* CellTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CellTest.m; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* Heath_Marcel-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Heath_Marcel-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -241,6 +249,10 @@
 				1D3623250D0F684500981E51 /* Heath_MarcelAppDelegate.m */,
 				28D7ACF60DDB3853001CB0EB /* Heath_MarcelViewController.h */,
 				28D7ACF70DDB3853001CB0EB /* Heath_MarcelViewController.m */,
+				7B2D5DEE124508AC00EAB733 /* GameBoard.h */,
+				7B2D5DEF124508AC00EAB733 /* GameBoard.m */,
+				7B2D5DF21245099A00EAB733 /* Cell.h */,
+				7B2D5DF31245099A00EAB733 /* Cell.m */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
@@ -301,7 +313,7 @@
 		7B2D5DBD1245067400EAB733 /* Tests */ = {
 			isa = PBXGroup;
 			children = (
-				7B2D5DC4124506A300EAB733 /* TestTest.m */,
+				7B2D5DF7124509F700EAB733 /* CellTest.m */,
 			);
 			path = Tests;
 			sourceTree = "<group>";
@@ -589,6 +601,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7B2D5DF1124508AC00EAB733 /* GameBoard.m in Sources */,
+				7B2D5DF51245099A00EAB733 /* Cell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -602,7 +616,9 @@
 				7B2D5D3A1245048400EAB733 /* GTMRegex.m in Sources */,
 				7B2D5D3B1245048400EAB733 /* GTMSenTestCase.m in Sources */,
 				7B2D5D3C1245048400EAB733 /* GTMUnitTestDevLog.m in Sources */,
-				7B2D5DC5124506A300EAB733 /* TestTest.m in Sources */,
+				7B2D5DF0124508AC00EAB733 /* GameBoard.m in Sources */,
+				7B2D5DF41245099A00EAB733 /* Cell.m in Sources */,
+				7B2D5DF8124509F700EAB733 /* CellTest.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -132,9 +132,9 @@
 	};
 	7B2D5C27124503B200EAB733 /* GTMSenTestCase.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {705, 13598}}";
+			sepNavIntBoundsRect = "{{0, 0}, {803, 13754}}";
 			sepNavSelRange = "{0, 0}";
-			sepNavVisRange = "{0, 2019}";
+			sepNavVisRange = "{2628, 1816}";
 		};
 	};
 	7B2D5C28124503B200EAB733 /* GTMSenTestCase.m */ = {
@@ -450,11 +450,25 @@
 		rLen = 0;
 		rLoc = 9223372036854775807;
 	};
-	7B2D5DC4124506A300EAB733 /* TestTest.m */ = {
+	7B2D5DEE124508AC00EAB733 /* GameBoard.h */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {617, 543}}";
-			sepNavSelRange = "{50, 14}";
-			sepNavVisRange = "{0, 162}";
+			sepNavSelRange = "{249, 15}";
+			sepNavVisRange = "{0, 316}";
+		};
+	};
+	7B2D5DF21245099A00EAB733 /* Cell.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {617, 543}}";
+			sepNavSelRange = "{254, 9}";
+			sepNavVisRange = "{0, 285}";
+		};
+	};
+	7B2D5DF7124509F700EAB733 /* CellTest.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {617, 543}}";
+			sepNavSelRange = "{0, 141}";
+			sepNavVisRange = "{0, 248}";
 		};
 	};
 	7BA375461245019200098511 /* Heath-Marcel */ = {
