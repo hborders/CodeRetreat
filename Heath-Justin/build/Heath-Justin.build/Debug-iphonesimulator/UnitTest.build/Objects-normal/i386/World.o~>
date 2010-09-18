@@ -1,0 +1,2 @@
+/Users/hborders/Desktop/CodeRetreat/Heath-Justin/Classes/World.m: In function '-[World iterate]':
+/Users/hborders/Desktop/CodeRetreat/Heath-Justin/Classes/World.m:49: warning: unused variable 'newMutableCells'
