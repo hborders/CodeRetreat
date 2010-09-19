@@ -1,0 +1,43 @@
+import junit.framework.Assert;
+
+import org.junit.Before;
+import org.junit.Test;
+
+public class WorldTest {
+	private World testObject;
+
+	@Before
+	public void setup() {
+		testObject = new World();
+	}
+
+	@Test
+	public void cellWithZeroNeighborsDies() {
+		testObject.add(new Cell(10, 20));
+
+		testObject.iterate();
+
+		Assert.assertFalse(testObject.contains(new Cell(10, 20)));
+	}
+
+	@Test
+	public void cellWithOneNeighborDies() {
+		testObject.add(new Cell(10, 20));
+		testObject.add(new Cell(11, 20));
+
+		testObject.iterate();
+
+		Assert.assertFalse(testObject.contains(new Cell(10, 20)));
+	}
+
+	@Test
+	public void cellWithTwoNeighborsLives() {
+		testObject.add(new Cell(10, 20));
+		testObject.add(new Cell(11, 20));
+		testObject.add(new Cell(9, 20));
+
+		testObject.iterate();
+
+		Assert.assertTrue(testObject.contains(new Cell(10, 20)));
+	}
+}

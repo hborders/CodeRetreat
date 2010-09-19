@@ -1,10 +1,11 @@
-#Sat Sep 18 11:09:35 CDT 2010
+#Sat Sep 18 13:00:49 CDT 2010
 sp_cleanup.remove_unnecessary_casts=true
 sp_cleanup.remove_trailing_whitespaces_ignore_empty=false
 org.eclipse.jdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
 sp_cleanup.use_blocks=false
 sp_cleanup.make_private_fields_final=true
 sp_cleanup.never_use_parentheses_in_expressions=true
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"/>
 sp_cleanup.always_use_this_for_non_static_field_access=false
 sp_cleanup.never_use_blocks=false
 sp_cleanup.organize_imports=true

@@ -1,0 +1,31 @@
+import java.awt.Point;
+import java.util.ArrayList;
+import java.util.Collection;
+
+@SuppressWarnings("serial")
+public class Cell extends Point {
+
+	public Cell() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+
+	public Cell(int x, int y) {
+		super(x, y);
+		// TODO Auto-generated constructor stub
+	}
+
+	public Cell(Point p) {
+		super(p);
+		// TODO Auto-generated constructor stub
+	}
+
+	public Collection<Cell> getNeighbours() {
+		return new ArrayList<Cell>(8) {
+			{
+
+			}
+		};
+	}
+
+}

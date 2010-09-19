@@ -1,0 +1,33 @@
+import java.util.Collections;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Map;
+
+@SuppressWarnings("serial")
+public class World extends HashSet<Cell> {
+
+	public void iterate() {
+		Map<Cell, Integer> neighbourhood = new HashMap<Cell, Integer>();
+		for (Cell cell: this) {
+			for (Cell neighbour: cell.getNeighbours()) {
+				Integer i = neighbourhood.get(neighbour);
+				if (i == null) {
+					neighbourhood.put(neighbour, 1);
+				} else {
+					neighbourhood.put(neighbour, i + 1);
+				}
+			}
+		}
+		
+		Set<Cell> oldWorld = new HashSet<Cell>(this);
+		retainAll(Collections.EMPTY_SET);
+		
+		for (Cell cell: neighbourhood.keySet()) {
+			int count = neighbourhood.get(cell);
+			if (count == 3) add(cell);
+			if (count == 2 && )
+		}
+		
+		
+	}
+}

@@ -1,0 +1,6 @@
+import java.util.HashSet;
+
+@SuppressWarnings("serial")
+public class World<Cell> extends HashSet<Cell> {
+
+}

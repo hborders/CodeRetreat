@@ -1,0 +1,12 @@
+import java.util.Collections;
+import java.util.HashSet;
+
+@SuppressWarnings("serial")
+public class World extends HashSet<Cell> {
+
+	public void iterate() {
+		retainAll(Collections.EMPTY_SET);
+
+	}
+
+}

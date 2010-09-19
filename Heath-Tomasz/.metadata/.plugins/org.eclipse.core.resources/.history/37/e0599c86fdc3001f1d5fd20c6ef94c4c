@@ -1,0 +1,38 @@
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Map;
+
+@SuppressWarnings("serial")
+public class World extends HashSet<Cell> {
+
+	public World getNext() {
+		Map<Cell, Integer> neighbourhood = new HashMap<Cell, Integer>();
+		for (Cell cell : this) {
+			for (Cell neighbour : cell.getNeighbours()) {
+				Integer i = neighbourhood.get(neighbour);
+				if (i == null) {
+					neighbourhood.put(neighbour, 1);
+				} else {
+					neighbourhood.put(neighbour, i + 1);
+				}
+			}
+
+			Integer my = neighbourhood.get(cell);
+			if (my == null) {
+				neighbourhood.put(cell, 1);
+			} else {
+				neighbourhood.put(cell, my + 1);
+			}
+		}
+
+		World result = new World();
+
+		for (Cell cell : neighbourhood.keySet()) {
+			int count = neighbourhood.get(cell);
+			if (count == 3)
+				result.add(cell);
+		}
+
+		return result;
+	}
+}

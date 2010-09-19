@@ -1,0 +1,49 @@
+import org.eclipse.swt.SWT;
+import org.eclipse.swt.events.PaintEvent;
+import org.eclipse.swt.events.PaintListener;
+import org.eclipse.swt.layout.GridData;
+import org.eclipse.swt.layout.GridLayout;
+import org.eclipse.swt.widgets.Canvas;
+import org.eclipse.swt.widgets.Display;
+import org.eclipse.swt.widgets.Shell;
+
+public class Main {
+	public static void main(String... args) {
+		Display display = new Display();
+		Shell shell = new Shell();
+		shell.setLayout(new GridLayout());
+		shell.setSize(800, 600);
+		shell.setText("Game of Life");
+
+		World world = new World();
+		world.add(new Cell(10, 10));
+		world.add(new Cell(10, 11));
+		world.add(new Cell(10, 12));
+
+		final Canvas canvas = new Canvas(shell, SWT.NONE);
+		canvas.addPaintListener(new PaintListener() {
+			@Override
+			public void paintControl(PaintEvent paintEvent) {
+				for (int i = 0; i < canvas.getClientArea().width; i += 10) {
+					paintEvent.gc.drawLine(i, 0, i,
+							canvas.getClientArea().height);
+					for (int j = 0; j < canvas.getClientArea().height; j += 10) {
+						paintEvent.gc.drawLine(0, j,
+								canvas.getClientArea().width, j);
+					}
+				}
+			}
+		});
+		canvas.setLayoutData(new GridData(SWT.FILL, SWT.FILL, true, true));
+
+		shell.open();
+
+		while (!shell.isDisposed()) {
+			if (!display.readAndDispatch()) {
+				display.sleep();
+			}
+		}
+
+		display.dispose();
+	}
+}
